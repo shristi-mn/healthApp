@@ -39,3 +39,7 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+QUICK_REFERENCE.md
+HOW_IT_WORKS.md
+SETUP_PROGRESS.md

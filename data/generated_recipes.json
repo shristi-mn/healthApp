@@ -1,0 +1,4349 @@
+[
+  {
+    "name": "Paneer Bhurji Scramble",
+    "cuisine": "indian",
+    "mealTypes": [
+      "breakfast",
+      "lunch"
+    ],
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 2,
+    "difficulty": "easy",
+    "instructions": [
+      "Heat oil in a non-stick pan over medium heat. Add cumin seeds and let them splutter.",
+      "Add chopped onions and sauté until translucent. Add ginger-garlic paste and green chilies, cook for 1 minute until fragrant.",
+      "Stir in chopped tomatoes and cook until they soften and the oil starts to separate.",
+      "Add turmeric powder, red chili powder, coriander powder, and garam masala. Cook for 1-2 minutes, adding a splash of water if needed to prevent burning.",
+      "Crumble the paneer directly into the pan. Mix gently to combine with the मसाला (masala).",
+      "Add chopped bell peppers (capsicum) and cook for another 3-5 minutes, allowing the paneer to absorb the flavors, but without overcooking.",
+      "Season with salt to taste. Garnish with fresh chopped coriander leaves.",
+      "Serve hot with whole wheat roti or as a protein-rich side dish."
+    ],
+    "ingredients": [
+      {
+        "name": "paneer (Indian cottage cheese)",
+        "category": "protein",
+        "quantity": "300g",
+        "optional": false
+      },
+      {
+        "name": "onion",
+        "category": "vegetable",
+        "quantity": "1 medium, chopped",
+        "optional": false
+      },
+      {
+        "name": "tomato",
+        "category": "vegetable",
+        "quantity": "1 large, chopped",
+        "optional": false
+      },
+      {
+        "name": "bell pepper (capsicum)",
+        "category": "vegetable",
+        "quantity": "1/2, chopped",
+        "optional": true
+      },
+      {
+        "name": "green chilies",
+        "category": "spice",
+        "quantity": "1-2, slit",
+        "optional": false
+      },
+      {
+        "name": "ginger-garlic paste",
+        "category": "condiment",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "cumin seeds",
+        "category": "spice",
+        "quantity": "1/2 tsp",
+        "optional": false
+      },
+      {
+        "name": "turmeric powder",
+        "category": "spice",
+        "quantity": "1/4 tsp",
+        "optional": false
+      },
+      {
+        "name": "red chili powder",
+        "category": "spice",
+        "quantity": "1/2 tsp",
+        "optional": true
+      },
+      {
+        "name": "coriander powder",
+        "category": "spice",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "garam masala",
+        "category": "spice",
+        "quantity": "1/2 tsp",
+        "optional": false
+      },
+      {
+        "name": "salt",
+        "category": "condiment",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "fresh coriander leaves",
+        "category": "herb",
+        "quantity": "2 tbsp, chopped",
+        "optional": false
+      },
+      {
+        "name": "oil (light olive or avocado)",
+        "category": "fat",
+        "quantity": "1 tbsp",
+        "optional": false
+      }
+    ],
+    "macros": {
+      "protein": 27,
+      "carbs": 9.5,
+      "fats": 37,
+      "calories": 445
+    },
+    "tags": [
+      "high-protein",
+      "vegetarian",
+      "quick",
+      "breakfast",
+      "low-carb-option"
+    ]
+  },
+  {
+    "name": "Masala Egg Bhurji (Scrambled Eggs)",
+    "cuisine": "indian",
+    "mealTypes": [
+      "breakfast",
+      "lunch"
+    ],
+    "prepTime": 5,
+    "cookTime": 10,
+    "servings": 2,
+    "difficulty": "easy",
+    "instructions": [
+      "Heat oil in a non-stick pan over medium heat. Add cumin seeds and let them splutter.",
+      "Add chopped onions and sauté until translucent. Add ginger-garlic paste and green chilies, cook for 1 minute until fragrant.",
+      "Stir in chopped tomatoes and cook until they soften. Add turmeric powder, red chili powder, and coriander powder. Cook for 1-2 minutes.",
+      "In a bowl, whisk whole eggs and egg whites with a pinch of salt and black pepper.",
+      "Pour the egg mixture into the pan with the cooked masala. Let it set for a few seconds, then scramble gently with a spatula.",
+      "Cook until the eggs are just set but still moist. Do not overcook.",
+      "Stir in garam masala and garnish with fresh chopped coriander leaves.",
+      "Serve hot with whole wheat toast or roti."
+    ],
+    "ingredients": [
+      {
+        "name": "large eggs",
+        "category": "protein",
+        "quantity": "6",
+        "optional": false
+      },
+      {
+        "name": "egg whites",
+        "category": "protein",
+        "quantity": "4",
+        "optional": false
+      },
+      {
+        "name": "onion",
+        "category": "vegetable",
+        "quantity": "1 medium, chopped",
+        "optional": false
+      },
+      {
+        "name": "tomato",
+        "category": "vegetable",
+        "quantity": "1 medium, chopped",
+        "optional": false
+      },
+      {
+        "name": "green chilies",
+        "category": "spice",
+        "quantity": "1-2, finely chopped",
+        "optional": false
+      },
+      {
+        "name": "ginger-garlic paste",
+        "category": "condiment",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "cumin seeds",
+        "category": "spice",
+        "quantity": "1/2 tsp",
+        "optional": false
+      },
+      {
+        "name": "turmeric powder",
+        "category": "spice",
+        "quantity": "1/4 tsp",
+        "optional": false
+      },
+      {
+        "name": "red chili powder",
+        "category": "spice",
+        "quantity": "1/2 tsp",
+        "optional": true
+      },
+      {
+        "name": "coriander powder",
+        "category": "spice",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "garam masala",
+        "category": "spice",
+        "quantity": "1/2 tsp",
+        "optional": false
+      },
+      {
+        "name": "salt",
+        "category": "condiment",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "black pepper",
+        "category": "spice",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "fresh coriander leaves",
+        "category": "herb",
+        "quantity": "2 tbsp, chopped",
+        "optional": false
+      },
+      {
+        "name": "oil (light olive or avocado)",
+        "category": "fat",
+        "quantity": "1 tbsp",
+        "optional": false
+      }
+    ],
+    "macros": {
+      "protein": 26,
+      "carbs": 5,
+      "fats": 22,
+      "calories": 319
+    },
+    "tags": [
+      "high-protein",
+      "non-vegetarian",
+      "quick",
+      "breakfast"
+    ]
+  },
+  {
+    "name": "High-Protein Moong Dal Cheela with Paneer Filling",
+    "cuisine": "indian",
+    "mealTypes": [
+      "breakfast",
+      "lunch"
+    ],
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 2,
+    "difficulty": "medium",
+    "instructions": [
+      "Wash and soak moong dal for at least 4 hours or overnight. Drain thoroughly.",
+      "Blend the soaked moong dal with ginger, green chili, a little water (about 1/4 cup) to a smooth, pourable batter. Add cumin powder and salt to the batter.",
+      "For the filling: In a bowl, crumble paneer. Add finely chopped onion, green chili, coriander leaves, red chili powder, and salt. Mix well.",
+      "Heat a non-stick tawa (griddle) over medium heat. Lightly grease with oil.",
+      "Pour a ladleful of batter onto the hot tawa and spread it evenly in a circular motion to form a thin cheela (pancake).",
+      "Drizzle a little oil around the edges and cook until the base turns golden brown and crispy.",
+      "Spread a portion of the paneer filling over half of the cheela. Cook for another minute, then carefully fold the cheela in half.",
+      "Cook for another minute until the filling is warm. Repeat for the remaining batter and filling (makes 4 cheelas, 2 per serving).",
+      "Serve hot with green chutney or yogurt."
+    ],
+    "ingredients": [
+      {
+        "name": "moong dal (split yellow lentils)",
+        "category": "legume",
+        "quantity": "200g (1 cup) dry",
+        "optional": false
+      },
+      {
+        "name": "paneer (Indian cottage cheese)",
+        "category": "protein",
+        "quantity": "150g, crumbled",
+        "optional": false
+      },
+      {
+        "name": "ginger",
+        "category": "vegetable",
+        "quantity": "1 inch piece",
+        "optional": false
+      },
+      {
+        "name": "green chilies",
+        "category": "spice",
+        "quantity": "2, or to taste",
+        "optional": false
+      },
+      {
+        "name": "onion",
+        "category": "vegetable",
+        "quantity": "1 small, finely chopped (for filling)",
+        "optional": false
+      },
+      {
+        "name": "fresh coriander leaves",
+        "category": "herb",
+        "quantity": "3 tbsp, chopped",
+        "optional": false
+      },
+      {
+        "name": "cumin powder",
+        "category": "spice",
+        "quantity": "1/2 tsp",
+        "optional": false
+      },
+      {
+        "name": "red chili powder",
+        "category": "spice",
+        "quantity": "1/2 tsp (for filling)",
+        "optional": true
+      },
+      {
+        "name": "salt",
+        "category": "condiment",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "water",
+        "category": "other",
+        "quantity": "as needed for batter",
+        "optional": false
+      },
+      {
+        "name": "oil (for cooking cheelas)",
+        "category": "fat",
+        "quantity": "2 tbsp",
+        "optional": false
+      }
+    ],
+    "macros": {
+      "protein": 37.5,
+      "carbs": 67.25,
+      "fats": 30,
+      "calories": 665
+    },
+    "tags": [
+      "high-protein",
+      "vegetarian",
+      "breakfast",
+      "lunch",
+      "indian-pancake"
+    ]
+  },
+  {
+    "name": "Spicy Soya Chunks Curry",
+    "cuisine": "indian",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "prepTime": 10,
+    "cookTime": 25,
+    "servings": 2,
+    "difficulty": "easy",
+    "instructions": [
+      "Boil soya chunks in plenty of water with a pinch of salt for 5 minutes. Drain, rinse under cold water, and squeeze out excess water completely.",
+      "Heat oil in a pan. Add cumin seeds and let them splutter. Add chopped onions and sauté until golden brown.",
+      "Add ginger-garlic paste and green chilies, cook for 1 minute until fragrant.",
+      "Add chopped tomatoes, turmeric powder, red chili powder, coriander powder, and garam masala. Cook until tomatoes soften and oil separates.",
+      "Add the squeezed soya chunks to the masala. Mix well and cook for 2-3 minutes.",
+      "Pour 1 cup of water, bring to a simmer, cover, and cook for 10-12 minutes, allowing the soya chunks to absorb the flavors and gravy to thicken.",
+      "Season with salt to taste. Garnish with fresh chopped coriander leaves.",
+      "Serve hot with brown rice or whole wheat roti."
+    ],
+    "ingredients": [
+      {
+        "name": "soya chunks (nutri-nuggets)",
+        "category": "protein",
+        "quantity": "100g dry",
+        "optional": false
+      },
+      {
+        "name": "onion",
+        "category": "vegetable",
+        "quantity": "1 large, chopped",
+        "optional": false
+      },
+      {
+        "name": "tomato",
+        "category": "vegetable",
+        "quantity": "2 medium, chopped",
+        "optional": false
+      },
+      {
+        "name": "green chilies",
+        "category": "spice",
+        "quantity": "1-2, slit",
+        "optional": false
+      },
+      {
+        "name": "ginger-garlic paste",
+        "category": "condiment",
+        "quantity": "1.5 tsp",
+        "optional": false
+      },
+      {
+        "name": "cumin seeds",
+        "category": "spice",
+        "quantity": "1/2 tsp",
+        "optional": false
+      },
+      {
+        "name": "turmeric powder",
+        "category": "spice",
+        "quantity": "1/4 tsp",
+        "optional": false
+      },
+      {
+        "name": "red chili powder",
+        "category": "spice",
+        "quantity": "1 tsp",
+        "optional": true
+      },
+      {
+        "name": "coriander powder",
+        "category": "spice",
+        "quantity": "1.5 tsp",
+        "optional": false
+      },
+      {
+        "name": "garam masala",
+        "category": "spice",
+        "quantity": "1/2 tsp",
+        "optional": false
+      },
+      {
+        "name": "salt",
+        "category": "condiment",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "fresh coriander leaves",
+        "category": "herb",
+        "quantity": "2 tbsp, chopped",
+        "optional": false
+      },
+      {
+        "name": "oil (light olive or avocado)",
+        "category": "fat",
+        "quantity": "2 tbsp",
+        "optional": false
+      },
+      {
+        "name": "water",
+        "category": "other",
+        "quantity": "1 cup",
+        "optional": false
+      }
+    ],
+    "macros": {
+      "protein": 26,
+      "carbs": 22.5,
+      "fats": 14.25,
+      "calories": 330
+    },
+    "tags": [
+      "high-protein",
+      "vegetarian",
+      "curry",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "High-Protein Rajma Masala",
+    "cuisine": "indian",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "prepTime": 15,
+    "cookTime": 45,
+    "servings": 2,
+    "difficulty": "medium",
+    "instructions": [
+      "Wash and soak rajma (kidney beans) overnight. Drain and pressure cook with fresh water for 8-10 whistles until soft. Reserve some cooking liquid.",
+      "Heat oil in a heavy-bottomed pan. Add cumin seeds, bay leaf, and cardamom. Let them splutter.",
+      "Add finely chopped onions and sauté until golden brown. Add ginger-garlic paste and green chilies, cook for 1 minute.",
+      "Add chopped tomatoes, turmeric powder, red chili powder, coriander powder, and garam masala. Cook until oil separates and tomatoes are mashed.",
+      "Stir in the cooked rajma along with some of its cooking liquid. Bring to a simmer.",
+      "Add Greek yogurt and mix well to prevent curdling. Cook covered for 15-20 minutes on low heat, allowing flavors to meld and gravy to thicken.",
+      "Season with salt to taste and mash some rajma against the side of the pan for a creamier texture. Garnish with fresh coriander.",
+      "Serve hot with brown rice or whole wheat roti."
+    ],
+    "ingredients": [
+      {
+        "name": "rajma (kidney beans)",
+        "category": "legume",
+        "quantity": "200g dry, soaked & cooked",
+        "optional": false
+      },
+      {
+        "name": "Greek yogurt (0% fat)",
+        "category": "dairy",
+        "quantity": "100g",
+        "optional": false
+      },
+      {
+        "name": "onion",
+        "category": "vegetable",
+        "quantity": "1 large, finely chopped",
+        "optional": false
+      },
+      {
+        "name": "tomato",
+        "category": "vegetable",
+        "quantity": "2 medium, puréed or finely chopped",
+        "optional": false
+      },
+      {
+        "name": "green chilies",
+        "category": "spice",
+        "quantity": "2, slit",
+        "optional": false
+      },
+      {
+        "name": "ginger-garlic paste",
+        "category": "condiment",
+        "quantity": "1.5 tsp",
+        "optional": false
+      },
+      {
+        "name": "cumin seeds",
+        "category": "spice",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "bay leaf",
+        "category": "spice",
+        "quantity": "1",
+        "optional": true
+      },
+      {
+        "name": "green cardamom",
+        "category": "spice",
+        "quantity": "2",
+        "optional": true
+      },
+      {
+        "name": "turmeric powder",
+        "category": "spice",
+        "quantity": "1/4 tsp",
+        "optional": false
+      },
+      {
+        "name": "red chili powder",
+        "category": "spice",
+        "quantity": "1 tsp",
+        "optional": true
+      },
+      {
+        "name": "coriander powder",
+        "category": "spice",
+        "quantity": "1.5 tsp",
+        "optional": false
+      },
+      {
+        "name": "garam masala",
+        "category": "spice",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "salt",
+        "category": "condiment",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "fresh coriander leaves",
+        "category": "herb",
+        "quantity": "2 tbsp, chopped",
+        "optional": false
+      },
+      {
+        "name": "oil (light olive or avocado)",
+        "category": "fat",
+        "quantity": "2 tbsp",
+        "optional": false
+      }
+    ],
+    "macros": {
+      "protein": 27,
+      "carbs": 72,
+      "fats": 15,
+      "calories": 540
+    },
+    "tags": [
+      "high-protein",
+      "vegetarian",
+      "curry",
+      "lunch",
+      "dinner",
+      "legume"
+    ]
+  },
+  {
+    "name": "Tofu Paneer Bhurji with Spinach",
+    "cuisine": "indian",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 2,
+    "difficulty": "easy",
+    "instructions": [
+      "Press tofu to remove excess water, then crumble it. Crumble paneer as well.",
+      "Heat oil in a non-stick pan over medium heat. Add cumin seeds and let them splutter.",
+      "Add chopped onions and sauté until translucent. Add ginger-garlic paste and green chilies, cook for 1 minute.",
+      "Stir in chopped tomatoes and cook until they soften. Add turmeric powder, red chili powder, coriander powder, and garam masala.",
+      "Add the crumbled tofu and paneer to the pan. Mix gently to combine with the masala.",
+      "Add chopped spinach, cover, and cook for 3-5 minutes until spinach wilts and moisture evaporates.",
+      "Season with salt to taste. Garnish with fresh chopped coriander leaves.",
+      "Serve hot with whole wheat roti or as a protein-rich side."
+    ],
+    "ingredients": [
+      {
+        "name": "firm tofu",
+        "category": "protein",
+        "quantity": "200g",
+        "optional": false
+      },
+      {
+        "name": "paneer (Indian cottage cheese)",
+        "category": "protein",
+        "quantity": "200g, crumbled",
+        "optional": false
+      },
+      {
+        "name": "spinach",
+        "category": "vegetable",
+        "quantity": "1 cup, chopped",
+        "optional": false
+      },
+      {
+        "name": "onion",
+        "category": "vegetable",
+        "quantity": "1 medium, chopped",
+        "optional": false
+      },
+      {
+        "name": "tomato",
+        "category": "vegetable",
+        "quantity": "1 large, chopped",
+        "optional": false
+      },
+      {
+        "name": "green chilies",
+        "category": "spice",
+        "quantity": "1-2, slit",
+        "optional": false
+      },
+      {
+        "name": "ginger-garlic paste",
+        "category": "condiment",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "cumin seeds",
+        "category": "spice",
+        "quantity": "1/2 tsp",
+        "optional": false
+      },
+      {
+        "name": "turmeric powder",
+        "category": "spice",
+        "quantity": "1/4 tsp",
+        "optional": false
+      },
+      {
+        "name": "red chili powder",
+        "category": "spice",
+        "quantity": "1/2 tsp",
+        "optional": true
+      },
+      {
+        "name": "coriander powder",
+        "category": "spice",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "garam masala",
+        "category": "spice",
+        "quantity": "1/2 tsp",
+        "optional": false
+      },
+      {
+        "name": "salt",
+        "category": "condiment",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "fresh coriander leaves",
+        "category": "herb",
+        "quantity": "2 tbsp, chopped",
+        "optional": false
+      },
+      {
+        "name": "oil (light olive or avocado)",
+        "category": "fat",
+        "quantity": "1 tbsp",
+        "optional": false
+      }
+    ],
+    "macros": {
+      "protein": 26,
+      "carbs": 10,
+      "fats": 32,
+      "calories": 410
+    },
+    "tags": [
+      "high-protein",
+      "vegetarian",
+      "low-carb-option",
+      "quick",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Healthy Dal Makhani",
+    "cuisine": "indian",
+    "mealTypes": [
+      "dinner"
+    ],
+    "prepTime": 20,
+    "cookTime": 60,
+    "servings": 2,
+    "difficulty": "medium",
+    "instructions": [
+      "Wash and soak black urad dal and rajma overnight. Drain and pressure cook together with fresh water and a pinch of salt for 10-12 whistles until very soft and creamy. Mash a little with a spoon.",
+      "Heat oil in a heavy-bottomed pan. Add cumin seeds, bay leaf, and green cardamom. Let them splutter.",
+      "Add finely chopped onions and sauté until golden brown. Add ginger-garlic paste and green chilies, cook for 1 minute.",
+      "Add chopped tomatoes, turmeric powder, red chili powder, and coriander powder. Cook until oil separates.",
+      "Add the cooked dal and rajma to the masala. Add about 1 cup of water and bring to a simmer. Cook on low heat for 20-25 minutes, stirring occasionally.",
+      "In a small bowl, whisk Greek yogurt until smooth. Slowly stir into the simmering dal (ensure heat is low to prevent curdling). Cook for another 5-7 minutes.",
+      "Stir in garam masala and kashmiri red chili powder (for color, optional). Season with salt to taste. Garnish with fresh coriander.",
+      "Serve hot with brown rice or whole wheat roti."
+    ],
+    "ingredients": [
+      {
+        "name": "black urad dal (whole black lentils)",
+        "category": "legume",
+        "quantity": "200g dry, soaked & cooked",
+        "optional": false
+      },
+      {
+        "name": "rajma (kidney beans)",
+        "category": "legume",
+        "quantity": "50g dry, soaked & cooked",
+        "optional": false
+      },
+      {
+        "name": "Greek yogurt (0% fat)",
+        "category": "dairy",
+        "quantity": "100g",
+        "optional": false
+      },
+      {
+        "name": "onion",
+        "category": "vegetable",
+        "quantity": "1 large, finely chopped",
+        "optional": false
+      },
+      {
+        "name": "tomato",
+        "category": "vegetable",
+        "quantity": "2 medium, puréed or finely chopped",
+        "optional": false
+      },
+      {
+        "name": "green chilies",
+        "category": "spice",
+        "quantity": "2, slit",
+        "optional": false
+      },
+      {
+        "name": "ginger-garlic paste",
+        "category": "condiment",
+        "quantity": "1.5 tsp",
+        "optional": false
+      },
+      {
+        "name": "cumin seeds",
+        "category": "spice",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "bay leaf",
+        "category": "spice",
+        "quantity": "1",
+        "optional": true
+      },
+      {
+        "name": "green cardamom",
+        "category": "spice",
+        "quantity": "2",
+        "optional": true
+      },
+      {
+        "name": "turmeric powder",
+        "category": "spice",
+        "quantity": "1/4 tsp",
+        "optional": false
+      },
+      {
+        "name": "red chili powder",
+        "category": "spice",
+        "quantity": "1 tsp",
+        "optional": true
+      },
+      {
+        "name": "coriander powder",
+        "category": "spice",
+        "quantity": "1.5 tsp",
+        "optional": false
+      },
+      {
+        "name": "garam masala",
+        "category": "spice",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "salt",
+        "category": "condiment",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "fresh coriander leaves",
+        "category": "herb",
+        "quantity": "2 tbsp, chopped",
+        "optional": false
+      },
+      {
+        "name": "oil (light olive or avocado)",
+        "category": "fat",
+        "quantity": "1.5 tbsp",
+        "optional": false
+      },
+      {
+        "name": "water",
+        "category": "other",
+        "quantity": "as needed",
+        "optional": false
+      },
+      {
+        "name": "Kashmiri red chili powder",
+        "category": "spice",
+        "quantity": "1/2 tsp",
+        "optional": true
+      }
+    ],
+    "macros": {
+      "protein": 34.5,
+      "carbs": 84.5,
+      "fats": 11.75,
+      "calories": 585
+    },
+    "tags": [
+      "high-protein",
+      "vegetarian",
+      "curry",
+      "dinner",
+      "legume"
+    ]
+  },
+  {
+    "name": "Grilled Chicken Tikka Skewers",
+    "cuisine": "indian",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "prepTime": 20,
+    "cookTime": 15,
+    "servings": 2,
+    "difficulty": "medium",
+    "instructions": [
+      "Cut chicken breast into 1-inch cubes. In a bowl, combine Greek yogurt, ginger-garlic paste, red chili powder, turmeric powder, coriander powder, cumin powder, garam masala, salt, and lemon juice. Add 1 tbsp oil.",
+      "Add chicken pieces to the marinade, ensuring they are well coated. Cover and refrigerate for at least 30 minutes, or up to 4 hours.",
+      "Preheat grill or oven to medium-high (or air fryer to 190°C/375°F).",
+      "Thread chicken pieces onto skewers, alternating with bell pepper and onion pieces if desired.",
+      "Grill or bake for 12-15 minutes, turning occasionally, until chicken is cooked through and lightly charred. If using an air fryer, cook for 10-12 minutes, shaking basket halfway.",
+      "Garnish with fresh coriander and serve hot with a side of mint chutney or salad."
+    ],
+    "ingredients": [
+      {
+        "name": "chicken breast",
+        "category": "protein",
+        "quantity": "400g, boneless, cut into cubes",
+        "optional": false
+      },
+      {
+        "name": "Greek yogurt (0% fat)",
+        "category": "dairy",
+        "quantity": "100g",
+        "optional": false
+      },
+      {
+        "name": "ginger-garlic paste",
+        "category": "condiment",
+        "quantity": "1 tbsp",
+        "optional": false
+      },
+      {
+        "name": "red chili powder",
+        "category": "spice",
+        "quantity": "1 tsp",
+        "optional": true
+      },
+      {
+        "name": "turmeric powder",
+        "category": "spice",
+        "quantity": "1/4 tsp",
+        "optional": false
+      },
+      {
+        "name": "coriander powder",
+        "category": "spice",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "cumin powder",
+        "category": "spice",
+        "quantity": "1/2 tsp",
+        "optional": false
+      },
+      {
+        "name": "garam masala",
+        "category": "spice",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "salt",
+        "category": "condiment",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "lemon juice",
+        "category": "fruit",
+        "quantity": "1 tbsp",
+        "optional": false
+      },
+      {
+        "name": "oil (light olive or avocado)",
+        "category": "fat",
+        "quantity": "1 tbsp",
+        "optional": false
+      },
+      {
+        "name": "bell pepper (capsicum)",
+        "category": "vegetable",
+        "quantity": "1/2, cubed",
+        "optional": true
+      },
+      {
+        "name": "onion",
+        "category": "vegetable",
+        "quantity": "1/2, cubed",
+        "optional": true
+      },
+      {
+        "name": "fresh coriander leaves",
+        "category": "herb",
+        "quantity": "for garnish",
+        "optional": false
+      }
+    ],
+    "macros": {
+      "protein": 49,
+      "carbs": 2,
+      "fats": 10,
+      "calories": 290
+    },
+    "tags": [
+      "high-protein",
+      "non-vegetarian",
+      "grilled",
+      "low-carb",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Spicy Prawn Masala",
+    "cuisine": "indian",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 2,
+    "difficulty": "easy",
+    "instructions": [
+      "Clean and devein prawns. Marinate with a pinch of salt and turmeric powder for 5 minutes.",
+      "Heat oil in a pan. Add cumin seeds and let them splutter. Add chopped onions and sauté until translucent.",
+      "Add ginger-garlic paste and green chilies, cook for 1 minute until fragrant.",
+      "Stir in chopped tomatoes and cook until they soften. Add red chili powder, coriander powder, and garam masala. Cook for 1-2 minutes.",
+      "Add the marinated prawns to the pan. Cook on medium-high heat for 3-5 minutes, stirring gently, until prawns turn pink and are cooked through. Be careful not to overcook as they can become rubbery.",
+      "Season with salt to taste. Garnish with fresh chopped coriander leaves.",
+      "Serve hot with brown rice or whole wheat roti."
+    ],
+    "ingredients": [
+      {
+        "name": "prawns",
+        "category": "protein",
+        "quantity": "400g, cleaned & deveined",
+        "optional": false
+      },
+      {
+        "name": "onion",
+        "category": "vegetable",
+        "quantity": "1 large, chopped",
+        "optional": false
+      },
+      {
+        "name": "tomato",
+        "category": "vegetable",
+        "quantity": "2 medium, chopped",
+        "optional": false
+      },
+      {
+        "name": "green chilies",
+        "category": "spice",
+        "quantity": "2, slit",
+        "optional": false
+      },
+      {
+        "name": "ginger-garlic paste",
+        "category": "condiment",
+        "quantity": "1.5 tsp",
+        "optional": false
+      },
+      {
+        "name": "cumin seeds",
+        "category": "spice",
+        "quantity": "1/2 tsp",
+        "optional": false
+      },
+      {
+        "name": "turmeric powder",
+        "category": "spice",
+        "quantity": "1/4 tsp + pinch for marination",
+        "optional": false
+      },
+      {
+        "name": "red chili powder",
+        "category": "spice",
+        "quantity": "1 tsp",
+        "optional": true
+      },
+      {
+        "name": "coriander powder",
+        "category": "spice",
+        "quantity": "1.5 tsp",
+        "optional": false
+      },
+      {
+        "name": "garam masala",
+        "category": "spice",
+        "quantity": "1/2 tsp",
+        "optional": false
+      },
+      {
+        "name": "salt",
+        "category": "condiment",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "fresh coriander leaves",
+        "category": "herb",
+        "quantity": "2 tbsp, chopped",
+        "optional": false
+      },
+      {
+        "name": "oil (light olive or avocado)",
+        "category": "fat",
+        "quantity": "1.5 tbsp",
+        "optional": false
+      }
+    ],
+    "macros": {
+      "protein": 42,
+      "carbs": 9.5,
+      "fats": 12.5,
+      "calories": 320
+    },
+    "tags": [
+      "high-protein",
+      "non-vegetarian",
+      "seafood",
+      "quick",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Lean Chicken Keema Curry",
+    "cuisine": "indian",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "prepTime": 10,
+    "cookTime": 25,
+    "servings": 2,
+    "difficulty": "medium",
+    "instructions": [
+      "Heat oil in a heavy-bottomed pan. Add cumin seeds, bay leaf, and cardamom. Let them splutter.",
+      "Add finely chopped onions and sauté until golden brown. Add ginger-garlic paste and green chilies, cook for 1 minute.",
+      "Add lean chicken mince and cook on medium-high heat, breaking up lumps, until it browns and all moisture evaporates.",
+      "Stir in chopped tomatoes, turmeric powder, red chili powder, coriander powder, and garam masala. Cook until oil separates.",
+      "Add green peas and 1/2 cup of water. Bring to a simmer, cover, and cook for 10-12 minutes until chicken is cooked through and peas are tender.",
+      "Season with salt to taste. Garnish with fresh chopped coriander leaves.",
+      "Serve hot with brown rice, whole wheat roti, or cauliflower rice for a low-carb option."
+    ],
+    "ingredients": [
+      {
+        "name": "lean chicken mince",
+        "category": "protein",
+        "quantity": "400g",
+        "optional": false
+      },
+      {
+        "name": "onion",
+        "category": "vegetable",
+        "quantity": "1 large, finely chopped",
+        "optional": false
+      },
+      {
+        "name": "tomato",
+        "category": "vegetable",
+        "quantity": "2 medium, chopped",
+        "optional": false
+      },
+      {
+        "name": "green peas (frozen)",
+        "category": "vegetable",
+        "quantity": "1/2 cup",
+        "optional": false
+      },
+      {
+        "name": "green chilies",
+        "category": "spice",
+        "quantity": "2, slit",
+        "optional": false
+      },
+      {
+        "name": "ginger-garlic paste",
+        "category": "condiment",
+        "quantity": "1.5 tsp",
+        "optional": false
+      },
+      {
+        "name": "cumin seeds",
+        "category": "spice",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "bay leaf",
+        "category": "spice",
+        "quantity": "1",
+        "optional": true
+      },
+      {
+        "name": "green cardamom",
+        "category": "spice",
+        "quantity": "2",
+        "optional": true
+      },
+      {
+        "name": "turmeric powder",
+        "category": "spice",
+        "quantity": "1/4 tsp",
+        "optional": false
+      },
+      {
+        "name": "red chili powder",
+        "category": "spice",
+        "quantity": "1 tsp",
+        "optional": true
+      },
+      {
+        "name": "coriander powder",
+        "category": "spice",
+        "quantity": "1.5 tsp",
+        "optional": false
+      },
+      {
+        "name": "garam masala",
+        "category": "spice",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "salt",
+        "category": "condiment",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "fresh coriander leaves",
+        "category": "herb",
+        "quantity": "2 tbsp, chopped",
+        "optional": false
+      },
+      {
+        "name": "oil (light olive or avocado)",
+        "category": "fat",
+        "quantity": "1.5 tbsp",
+        "optional": false
+      },
+      {
+        "name": "water",
+        "category": "other",
+        "quantity": "1/2 cup",
+        "optional": false
+      }
+    ],
+    "macros": {
+      "protein": 44,
+      "carbs": 10,
+      "fats": 20.5,
+      "calories": 390
+    },
+    "tags": [
+      "high-protein",
+      "non-vegetarian",
+      "curry",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "High-Protein Fish Curry (Goan Style)",
+    "cuisine": "indian",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 2,
+    "difficulty": "medium",
+    "instructions": [
+      "Cut fish fillets into 2-inch pieces. Marinate with a pinch of salt and turmeric powder for 5 minutes.",
+      "Grind or blend chopped onion, ginger, garlic, green chilies, coriander powder, red chili powder, and cumin powder with a little water to a smooth paste.",
+      "Heat oil in a pan. Add mustard seeds and let them splutter. Add curry leaves.",
+      "Add the ground masala paste and sauté for 5-7 minutes until the raw smell disappears and oil starts to separate.",
+      "Add chopped tomatoes and cook until soft. Stir in light coconut milk and 1/2 cup of water. Bring to a gentle simmer.",
+      "Gently slide the marinated fish pieces into the simmering gravy. Cover and cook for 5-7 minutes, or until fish is opaque and cooked through.",
+      "Season with salt to taste. Add a squeeze of tamarind paste or lemon juice for tanginess. Garnish with fresh coriander.",
+      "Serve hot with brown rice or as a light, protein-rich meal."
+    ],
+    "ingredients": [
+      {
+        "name": "firm white fish fillets (e.g., cod, tilapia)",
+        "category": "protein",
+        "quantity": "400g, cut into pieces",
+        "optional": false
+      },
+      {
+        "name": "light coconut milk",
+        "category": "dairy",
+        "quantity": "100ml",
+        "optional": false
+      },
+      {
+        "name": "onion",
+        "category": "vegetable",
+        "quantity": "1 small, chopped",
+        "optional": false
+      },
+      {
+        "name": "tomato",
+        "category": "vegetable",
+        "quantity": "1 medium, chopped",
+        "optional": false
+      },
+      {
+        "name": "ginger",
+        "category": "vegetable",
+        "quantity": "1 inch piece",
+        "optional": false
+      },
+      {
+        "name": "garlic cloves",
+        "category": "vegetable",
+        "quantity": "3-4",
+        "optional": false
+      },
+      {
+        "name": "green chilies",
+        "category": "spice",
+        "quantity": "2, or to taste",
+        "optional": false
+      },
+      {
+        "name": "mustard seeds",
+        "category": "spice",
+        "quantity": "1/2 tsp",
+        "optional": false
+      },
+      {
+        "name": "curry leaves",
+        "category": "herb",
+        "quantity": "8-10",
+        "optional": true
+      },
+      {
+        "name": "turmeric powder",
+        "category": "spice",
+        "quantity": "1/4 tsp + pinch for marination",
+        "optional": false
+      },
+      {
+        "name": "red chili powder",
+        "category": "spice",
+        "quantity": "1 tsp",
+        "optional": true
+      },
+      {
+        "name": "coriander powder",
+        "category": "spice",
+        "quantity": "1.5 tsp",
+        "optional": false
+      },
+      {
+        "name": "cumin powder",
+        "category": "spice",
+        "quantity": "1/2 tsp",
+        "optional": false
+      },
+      {
+        "name": "salt",
+        "category": "condiment",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "tamarind paste or lemon juice",
+        "category": "condiment",
+        "quantity": "1 tsp",
+        "optional": true
+      },
+      {
+        "name": "fresh coriander leaves",
+        "category": "herb",
+        "quantity": "2 tbsp, chopped",
+        "optional": false
+      },
+      {
+        "name": "oil (light olive or avocado)",
+        "category": "fat",
+        "quantity": "1 tbsp",
+        "optional": false
+      },
+      {
+        "name": "water",
+        "category": "other",
+        "quantity": "1/2 cup",
+        "optional": false
+      }
+    ],
+    "macros": {
+      "protein": 43,
+      "carbs": 6.5,
+      "fats": 13.5,
+      "calories": 325
+    },
+    "tags": [
+      "high-protein",
+      "non-vegetarian",
+      "seafood",
+      "curry",
+      "lunch",
+      "dinner"
+    ]
+  },
+  {
+    "name": "Chicken & Spinach Scramble",
+    "cuisine": "indian",
+    "mealTypes": [
+      "breakfast",
+      "lunch"
+    ],
+    "prepTime": 10,
+    "cookTime": 12,
+    "servings": 2,
+    "difficulty": "easy",
+    "instructions": [
+      "If using raw chicken, dice it finely and sauté in a pan with a little oil until cooked through. Set aside. (Or use pre-cooked shredded chicken).",
+      "Heat oil in a non-stick pan over medium heat. Add finely chopped onion and sauté until translucent.",
+      "Add ginger-garlic paste and green chilies, cook for 1 minute until fragrant.",
+      "Add chopped spinach and cook until it wilts and most of its moisture evaporates.",
+      "Add the cooked chicken to the pan. Season with turmeric powder, red chili powder, and a pinch of garam masala. Mix well.",
+      "In a bowl, whisk eggs with salt and black pepper.",
+      "Pour the egg mixture over the chicken and spinach. Let it set for a few seconds, then scramble gently.",
+      "Cook until eggs are just set but still moist. Garnish with fresh chopped coriander leaves.",
+      "Serve hot as a high-protein breakfast or light lunch."
+    ],
+    "ingredients": [
+      {
+        "name": "large eggs",
+        "category": "protein",
+        "quantity": "4",
+        "optional": false
+      },
+      {
+        "name": "cooked chicken breast",
+        "category": "protein",
+        "quantity": "150g, shredded or finely diced",
+        "optional": false
+      },
+      {
+        "name": "spinach",
+        "category": "vegetable",
+        "quantity": "1.5 cups, chopped",
+        "optional": false
+      },
+      {
+        "name": "onion",
+        "category": "vegetable",
+        "quantity": "1 small, finely chopped",
+        "optional": false
+      },
+      {
+        "name": "green chilies",
+        "category": "spice",
+        "quantity": "1, finely chopped",
+        "optional": false
+      },
+      {
+        "name": "ginger-garlic paste",
+        "category": "condiment",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "turmeric powder",
+        "category": "spice",
+        "quantity": "1/4 tsp",
+        "optional": false
+      },
+      {
+        "name": "red chili powder",
+        "category": "spice",
+        "quantity": "1/2 tsp",
+        "optional": true
+      },
+      {
+        "name": "garam masala",
+        "category": "spice",
+        "quantity": "1/4 tsp",
+        "optional": false
+      },
+      {
+        "name": "salt",
+        "category": "condiment",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "black pepper",
+        "category": "spice",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "fresh coriander leaves",
+        "category": "herb",
+        "quantity": "1 tbsp, chopped",
+        "optional": false
+      },
+      {
+        "name": "oil (light olive or avocado)",
+        "category": "fat",
+        "quantity": "1 tbsp",
+        "optional": false
+      }
+    ],
+    "macros": {
+      "protein": 28.5,
+      "carbs": 3.5,
+      "fats": 18.1,
+      "calories": 290
+    },
+    "tags": [
+      "high-protein",
+      "non-vegetarian",
+      "quick",
+      "breakfast",
+      "low-carb"
+    ]
+  },
+  {
+    "name": "Quick Tandoori Chicken Wraps",
+    "cuisine": "indian",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "prepTime": 15,
+    "cookTime": 15,
+    "servings": 2,
+    "difficulty": "easy",
+    "instructions": [
+      "Cut chicken breast into thin strips. In a bowl, combine Greek yogurt, ginger-garlic paste, tandoori masala, red chili powder, salt, and lemon juice. Add chicken strips and mix well. Marinate for 15-20 minutes.",
+      "Heat oil in a non-stick pan over medium-high heat. Add marinated chicken strips and cook for 8-10 minutes, stirring occasionally, until chicken is cooked through and lightly charred.",
+      "Warm whole wheat rotis on a tawa or pan. Prepare the salad by mixing sliced cucumber, onion, tomato, and fresh mint leaves.",
+      "Spread a thin layer of mint chutney or Greek yogurt on each warm roti. Place cooked tandoori chicken strips and a portion of the fresh salad mix in the center.",
+      "Roll up the rotis tightly and serve immediately."
+    ],
+    "ingredients": [
+      {
+        "name": "chicken breast",
+        "category": "protein",
+        "quantity": "300g, boneless, cut into strips",
+        "optional": false
+      },
+      {
+        "name": "Greek yogurt (0% fat)",
+        "category": "dairy",
+        "quantity": "50g",
+        "optional": false
+      },
+      {
+        "name": "whole wheat roti",
+        "category": "grain",
+        "quantity": "2 medium",
+        "optional": false
+      },
+      {
+        "name": "tandoori masala",
+        "category": "spice",
+        "quantity": "1 tbsp",
+        "optional": false
+      },
+      {
+        "name": "ginger-garlic paste",
+        "category": "condiment",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "red chili powder",
+        "category": "spice",
+        "quantity": "1/2 tsp",
+        "optional": true
+      },
+      {
+        "name": "salt",
+        "category": "condiment",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "lemon juice",
+        "category": "fruit",
+        "quantity": "1 tbsp",
+        "optional": false
+      },
+      {
+        "name": "cucumber",
+        "category": "vegetable",
+        "quantity": "1/2, sliced",
+        "optional": false
+      },
+      {
+        "name": "onion",
+        "category": "vegetable",
+        "quantity": "1/4, sliced",
+        "optional": false
+      },
+      {
+        "name": "tomato",
+        "category": "vegetable",
+        "quantity": "1/2, sliced",
+        "optional": false
+      },
+      {
+        "name": "fresh mint leaves",
+        "category": "herb",
+        "quantity": "1 tbsp, chopped",
+        "optional": true
+      },
+      {
+        "name": "oil (light olive or avocado)",
+        "category": "fat",
+        "quantity": "1 tbsp",
+        "optional": false
+      },
+      {
+        "name": "mint chutney",
+        "category": "condiment",
+        "quantity": "2 tbsp",
+        "optional": true
+      }
+    ],
+    "macros": {
+      "protein": 40.5,
+      "carbs": 36,
+      "fats": 12.25,
+      "calories": 400
+    },
+    "tags": [
+      "high-protein",
+      "non-vegetarian",
+      "quick",
+      "lunch",
+      "dinner",
+      "wrap"
+    ]
+  },
+  {
+    "name": "Protein-Rich Chana Dal & Spinach Curry",
+    "cuisine": "indian",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "prepTime": 15,
+    "cookTime": 30,
+    "servings": 1,
+    "difficulty": "medium",
+    "instructions": [
+      "Wash and soak chana dal for at least 30 minutes. Drain. Pressure cook with fresh water and a pinch of salt for 4-5 whistles until tender but not mushy. Drain excess water, if any.",
+      "Heat oil in a pan. Add cumin seeds and let them splutter. Add chopped onions and sauté until translucent. Add ginger-garlic paste and green chilies, cook for 1 minute.",
+      "Add chopped tomatoes, turmeric powder, red chili powder, coriander powder, and garam masala. Cook until oil separates.",
+      "Add the cooked chana dal and chopped spinach. Stir well. Add 1/4 cup of water, cover, and cook for 5-7 minutes until spinach wilts and flavors meld.",
+      "Season with salt to taste. Garnish with fresh chopped coriander leaves and a squeeze of lemon juice.",
+      "Serve hot with brown rice or whole wheat roti."
+    ],
+    "ingredients": [
+      {
+        "name": "chana dal (split chickpeas)",
+        "category": "legume",
+        "quantity": "150g dry, soaked & cooked",
+        "optional": false
+      },
+      {
+        "name": "spinach",
+        "category": "vegetable",
+        "quantity": "1 cup, chopped",
+        "optional": false
+      },
+      {
+        "name": "onion",
+        "category": "vegetable",
+        "quantity": "1 medium, chopped",
+        "optional": false
+      },
+      {
+        "name": "tomato",
+        "category": "vegetable",
+        "quantity": "1 large, chopped",
+        "optional": false
+      },
+      {
+        "name": "green chilies",
+        "category": "spice",
+        "quantity": "1-2, slit",
+        "optional": false
+      },
+      {
+        "name": "ginger-garlic paste",
+        "category": "condiment",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "cumin seeds",
+        "category": "spice",
+        "quantity": "1/2 tsp",
+        "optional": false
+      },
+      {
+        "name": "turmeric powder",
+        "category": "spice",
+        "quantity": "1/4 tsp",
+        "optional": false
+      },
+      {
+        "name": "red chili powder",
+        "category": "spice",
+        "quantity": "1 tsp",
+        "optional": true
+      },
+      {
+        "name": "coriander powder",
+        "category": "spice",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "garam masala",
+        "category": "spice",
+        "quantity": "1/2 tsp",
+        "optional": false
+      },
+      {
+        "name": "salt",
+        "category": "condiment",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "fresh coriander leaves",
+        "category": "herb",
+        "quantity": "2 tbsp, chopped",
+        "optional": false
+      },
+      {
+        "name": "lemon juice",
+        "category": "fruit",
+        "quantity": "1 tbsp",
+        "optional": true
+      },
+      {
+        "name": "oil (light olive or avocado)",
+        "category": "fat",
+        "quantity": "1 tbsp",
+        "optional": false
+      },
+      {
+        "name": "water",
+        "category": "other",
+        "quantity": "1/4 cup",
+        "optional": false
+      }
+    ],
+    "macros": {
+      "protein": 34.5,
+      "carbs": 85,
+      "fats": 18.5,
+      "calories": 620
+    },
+    "tags": [
+      "high-protein",
+      "vegetarian",
+      "curry",
+      "lunch",
+      "dinner",
+      "legume"
+    ]
+  },
+  {
+    "name": "High-Protein Chicken and Chickpea Salad (Desi Style)",
+    "cuisine": "indian",
+    "mealTypes": [
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "prepTime": 15,
+    "cookTime": 0,
+    "servings": 2,
+    "difficulty": "easy",
+    "instructions": [
+      "In a large bowl, combine cooked chicken breast, cooked chickpeas, diced cucumber, chopped red onion, and chopped tomatoes.",
+      "For the dressing, whisk together Greek yogurt, lemon juice, chopped mint leaves, chaat masala, red chili powder, and salt.",
+      "Pour the dressing over the chicken and vegetable mixture. Toss gently to ensure everything is well coated.",
+      "Chill for 10-15 minutes before serving to allow flavors to meld. Garnish with extra mint leaves if desired.",
+      "Serve as a light, refreshing, and protein-packed meal or snack."
+    ],
+    "ingredients": [
+      {
+        "name": "cooked chicken breast",
+        "category": "protein",
+        "quantity": "200g, shredded or diced",
+        "optional": false
+      },
+      {
+        "name": "chickpeas (garbanzo beans)",
+        "category": "legume",
+        "quantity": "150g, cooked & drained",
+        "optional": false
+      },
+      {
+        "name": "cucumber",
+        "category": "vegetable",
+        "quantity": "1 medium, diced",
+        "optional": false
+      },
+      {
+        "name": "red onion",
+        "category": "vegetable",
+        "quantity": "1/4 medium, finely chopped",
+        "optional": false
+      },
+      {
+        "name": "tomato",
+        "category": "vegetable",
+        "quantity": "1 medium, chopped",
+        "optional": false
+      },
+      {
+        "name": "Greek yogurt (0% fat)",
+        "category": "dairy",
+        "quantity": "50g",
+        "optional": false
+      },
+      {
+        "name": "lemon juice",
+        "category": "fruit",
+        "quantity": "1 tbsp",
+        "optional": false
+      },
+      {
+        "name": "fresh mint leaves",
+        "category": "herb",
+        "quantity": "2 tbsp, chopped",
+        "optional": false
+      },
+      {
+        "name": "chaat masala",
+        "category": "spice",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "red chili powder",
+        "category": "spice",
+        "quantity": "1/2 tsp",
+        "optional": true
+      },
+      {
+        "name": "salt",
+        "category": "condiment",
+        "quantity": "to taste",
+        "optional": false
+      }
+    ],
+    "macros": {
+      "protein": 31.25,
+      "carbs": 28.5,
+      "fats": 3,
+      "calories": 265
+    },
+    "tags": [
+      "high-protein",
+      "non-vegetarian",
+      "salad",
+      "quick",
+      "lunch",
+      "dinner",
+      "low-fat"
+    ]
+  },
+  {
+    "name": "Chicken Tikka Salad Bowl with Mint Chutney Dressing",
+    "cuisine": "indian",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "prepTime": 15,
+    "cookTime": 15,
+    "servings": 1,
+    "difficulty": "easy",
+    "instructions": [
+      "Prepare chicken tikka: Dice chicken breast. Marinate with 1/2 of the Greek yogurt, ginger-garlic paste, tandoori masala, salt, and lemon juice for 15 minutes.",
+      "Cook chicken: Heat 1 tsp oil in a non-stick pan. Cook marinated chicken pieces until golden brown and cooked through, about 8-10 minutes. Set aside.",
+      "Assemble salad: In a large bowl, combine mixed greens, sliced cucumber, cherry tomatoes, and red onion.",
+      "Prepare dressing: In a small bowl, whisk remaining Greek yogurt with mint leaves, green chili, a pinch of salt, and a dash of lemon juice.",
+      "Combine: Add the cooked chicken tikka to the salad bowl. Drizzle with the mint chutney dressing.",
+      "Toss gently and serve immediately as a complete meal."
+    ],
+    "ingredients": [
+      {
+        "name": "chicken breast",
+        "category": "protein",
+        "quantity": "200g, diced",
+        "optional": false
+      },
+      {
+        "name": "Greek yogurt (0% fat)",
+        "category": "dairy",
+        "quantity": "80g",
+        "optional": false
+      },
+      {
+        "name": "mixed greens",
+        "category": "vegetable",
+        "quantity": "2 cups",
+        "optional": false
+      },
+      {
+        "name": "cucumber",
+        "category": "vegetable",
+        "quantity": "1/2, sliced",
+        "optional": false
+      },
+      {
+        "name": "cherry tomatoes",
+        "category": "vegetable",
+        "quantity": "1/2 cup, halved",
+        "optional": false
+      },
+      {
+        "name": "red onion",
+        "category": "vegetable",
+        "quantity": "1/4, thinly sliced",
+        "optional": false
+      },
+      {
+        "name": "ginger-garlic paste",
+        "category": "condiment",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "tandoori masala",
+        "category": "spice",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "lemon juice",
+        "category": "fruit",
+        "quantity": "1 tbsp",
+        "optional": false
+      },
+      {
+        "name": "fresh mint leaves",
+        "category": "herb",
+        "quantity": "2 tbsp, chopped",
+        "optional": false
+      },
+      {
+        "name": "green chili",
+        "category": "spice",
+        "quantity": "1/2, chopped",
+        "optional": true
+      },
+      {
+        "name": "salt",
+        "category": "condiment",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "oil (light olive or avocado)",
+        "category": "fat",
+        "quantity": "1 tsp",
+        "optional": false
+      }
+    ],
+    "macros": {
+      "protein": 33,
+      "carbs": 12,
+      "fats": 7,
+      "calories": 255
+    },
+    "tags": [
+      "high-protein",
+      "non-vegetarian",
+      "salad",
+      "quick",
+      "lunch",
+      "low-carb"
+    ]
+  },
+  {
+    "name": "Sprouted Moong Dal & Vegetable Stir-Fry",
+    "cuisine": "indian",
+    "mealTypes": [
+      "lunch",
+      "dinner",
+      "snack"
+    ],
+    "prepTime": 15,
+    "cookTime": 10,
+    "servings": 1,
+    "difficulty": "easy",
+    "instructions": [
+      "Heat oil in a pan or wok over medium-high heat. Add mustard seeds and cumin seeds, let them splutter.",
+      "Add chopped onion and sauté until translucent. Add ginger-garlic paste and green chili, cook for 1 minute.",
+      "Add chopped carrots, bell peppers, and green beans. Stir-fry for 3-4 minutes until vegetables are tender-crisp.",
+      "Add the sprouted moong dal, turmeric powder, red chili powder, and coriander powder. Stir-fry for another 2-3 minutes.",
+      "Season with salt and a squeeze of lemon juice. Garnish with fresh chopped coriander leaves.",
+      "Serve hot as a light meal or a healthy snack."
+    ],
+    "ingredients": [
+      {
+        "name": "sprouted moong dal",
+        "category": "legume",
+        "quantity": "200g",
+        "optional": false
+      },
+      {
+        "name": "carrot",
+        "category": "vegetable",
+        "quantity": "1/2 cup, diced",
+        "optional": false
+      },
+      {
+        "name": "bell pepper (capsicum)",
+        "category": "vegetable",
+        "quantity": "1/2 cup, diced",
+        "optional": false
+      },
+      {
+        "name": "green beans",
+        "category": "vegetable",
+        "quantity": "1/2 cup, chopped",
+        "optional": false
+      },
+      {
+        "name": "onion",
+        "category": "vegetable",
+        "quantity": "1/2 medium, chopped",
+        "optional": false
+      },
+      {
+        "name": "ginger-garlic paste",
+        "category": "condiment",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "green chili",
+        "category": "spice",
+        "quantity": "1, chopped",
+        "optional": false
+      },
+      {
+        "name": "mustard seeds",
+        "category": "spice",
+        "quantity": "1/2 tsp",
+        "optional": false
+      },
+      {
+        "name": "cumin seeds",
+        "category": "spice",
+        "quantity": "1/2 tsp",
+        "optional": false
+      },
+      {
+        "name": "turmeric powder",
+        "category": "spice",
+        "quantity": "1/4 tsp",
+        "optional": false
+      },
+      {
+        "name": "red chili powder",
+        "category": "spice",
+        "quantity": "1/2 tsp",
+        "optional": true
+      },
+      {
+        "name": "coriander powder",
+        "category": "spice",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "salt",
+        "category": "condiment",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "lemon juice",
+        "category": "fruit",
+        "quantity": "1 tbsp",
+        "optional": false
+      },
+      {
+        "name": "fresh coriander leaves",
+        "category": "herb",
+        "quantity": "1 tbsp, chopped",
+        "optional": false
+      },
+      {
+        "name": "oil (light olive or avocado)",
+        "category": "fat",
+        "quantity": "1 tbsp",
+        "optional": false
+      }
+    ],
+    "macros": {
+      "protein": 26,
+      "carbs": 45,
+      "fats": 15,
+      "calories": 420
+    },
+    "tags": [
+      "high-protein",
+      "vegetarian",
+      "quick",
+      "stir-fry",
+      "lunch",
+      "dinner",
+      "snack"
+    ]
+  },
+  {
+    "name": "Protein-Packed Tofu Scramble with Indian Spices",
+    "cuisine": "indian",
+    "mealTypes": [
+      "breakfast",
+      "lunch"
+    ],
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 2,
+    "difficulty": "easy",
+    "instructions": [
+      "Press tofu to remove excess water, then crumble it into small pieces.",
+      "Heat oil in a non-stick pan over medium heat. Add cumin seeds and let them splutter.",
+      "Add chopped onions and sauté until translucent. Add ginger-garlic paste and green chilies, cook for 1 minute.",
+      "Stir in chopped tomatoes and cook until they soften. Add turmeric powder, red chili powder, and coriander powder. Cook for 1-2 minutes.",
+      "Add the crumbled tofu to the pan. Season with nutritional yeast (for a cheesy flavor, optional), kala namak (black salt), and regular salt.",
+      "Cook for 5-7 minutes, stirring occasionally, until the tofu is heated through and has absorbed the flavors. Do not overcook as it can become dry.",
+      "Stir in garam masala. Garnish with fresh chopped coriander leaves.",
+      "Serve hot with whole wheat toast or as a high-protein side dish."
+    ],
+    "ingredients": [
+      {
+        "name": "extra-firm tofu",
+        "category": "protein",
+        "quantity": "400g, pressed and crumbled",
+        "optional": false
+      },
+      {
+        "name": "onion",
+        "category": "vegetable",
+        "quantity": "1 medium, chopped",
+        "optional": false
+      },
+      {
+        "name": "tomato",
+        "category": "vegetable",
+        "quantity": "1 large, chopped",
+        "optional": false
+      },
+      {
+        "name": "green chilies",
+        "category": "spice",
+        "quantity": "1-2, slit",
+        "optional": false
+      },
+      {
+        "name": "ginger-garlic paste",
+        "category": "condiment",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "cumin seeds",
+        "category": "spice",
+        "quantity": "1/2 tsp",
+        "optional": false
+      },
+      {
+        "name": "turmeric powder",
+        "category": "spice",
+        "quantity": "1/4 tsp",
+        "optional": false
+      },
+      {
+        "name": "red chili powder",
+        "category": "spice",
+        "quantity": "1/2 tsp",
+        "optional": true
+      },
+      {
+        "name": "coriander powder",
+        "category": "spice",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "garam masala",
+        "category": "spice",
+        "quantity": "1/2 tsp",
+        "optional": false
+      },
+      {
+        "name": "salt",
+        "category": "condiment",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "kala namak (black salt)",
+        "category": "condiment",
+        "quantity": "1/4 tsp",
+        "optional": true
+      },
+      {
+        "name": "nutritional yeast",
+        "category": "other",
+        "quantity": "1 tbsp",
+        "optional": true
+      },
+      {
+        "name": "fresh coriander leaves",
+        "category": "herb",
+        "quantity": "2 tbsp, chopped",
+        "optional": false
+      },
+      {
+        "name": "oil (light olive or avocado)",
+        "category": "fat",
+        "quantity": "1 tbsp",
+        "optional": false
+      }
+    ],
+    "macros": {
+      "protein": 32,
+      "carbs": 12,
+      "fats": 16,
+      "calories": 320
+    },
+    "tags": [
+      "high-protein",
+      "vegetarian",
+      "vegan",
+      "quick",
+      "breakfast",
+      "low-carb-option"
+    ]
+  },
+  {
+    "name": "Andhra Style Chicken Fry (Dry)",
+    "cuisine": "indian",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 2,
+    "difficulty": "medium",
+    "instructions": [
+      "Cut chicken breast into 1-inch pieces. Marinate with ginger-garlic paste, turmeric powder, red chili powder, coriander powder, cumin powder, and salt for at least 15 minutes.",
+      "Heat oil in a heavy-bottomed pan or wok over medium-high heat. Add mustard seeds and curry leaves, let them splutter.",
+      "Add finely chopped onions and green chilies. Sauté until onions turn golden brown.",
+      "Add the marinated chicken pieces to the pan. Cook on medium-high heat for 10-12 minutes, stirring occasionally, until chicken is cooked through and lightly browned.",
+      "Sprinkle garam masala and black pepper powder. Stir-fry for another 2-3 minutes until the chicken is well coated with spices and slightly crisp.",
+      "Garnish with fresh chopped coriander leaves and a squeeze of lemon juice.",
+      "Serve hot as a dry side dish with dal and brown rice, or with whole wheat roti."
+    ],
+    "ingredients": [
+      {
+        "name": "chicken breast",
+        "category": "protein",
+        "quantity": "400g, boneless, cut into pieces",
+        "optional": false
+      },
+      {
+        "name": "onion",
+        "category": "vegetable",
+        "quantity": "1 large, finely chopped",
+        "optional": false
+      },
+      {
+        "name": "green chilies",
+        "category": "spice",
+        "quantity": "3-4, slit",
+        "optional": false
+      },
+      {
+        "name": "ginger-garlic paste",
+        "category": "condiment",
+        "quantity": "1.5 tbsp",
+        "optional": false
+      },
+      {
+        "name": "mustard seeds",
+        "category": "spice",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "curry leaves",
+        "category": "herb",
+        "quantity": "10-12",
+        "optional": false
+      },
+      {
+        "name": "turmeric powder",
+        "category": "spice",
+        "quantity": "1/4 tsp",
+        "optional": false
+      },
+      {
+        "name": "red chili powder",
+        "category": "spice",
+        "quantity": "1.5 tsp",
+        "optional": true
+      },
+      {
+        "name": "coriander powder",
+        "category": "spice",
+        "quantity": "1.5 tsp",
+        "optional": false
+      },
+      {
+        "name": "cumin powder",
+        "category": "spice",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "garam masala",
+        "category": "spice",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "black pepper powder",
+        "category": "spice",
+        "quantity": "1/2 tsp",
+        "optional": false
+      },
+      {
+        "name": "salt",
+        "category": "condiment",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "lemon juice",
+        "category": "fruit",
+        "quantity": "1 tbsp",
+        "optional": false
+      },
+      {
+        "name": "fresh coriander leaves",
+        "category": "herb",
+        "quantity": "2 tbsp, chopped",
+        "optional": false
+      },
+      {
+        "name": "oil (light olive or avocado)",
+        "category": "fat",
+        "quantity": "1.5 tbsp",
+        "optional": false
+      }
+    ],
+    "macros": {
+      "protein": 44,
+      "carbs": 10,
+      "fats": 10,
+      "calories": 300
+    },
+    "tags": [
+      "high-protein",
+      "non-vegetarian",
+      "dry-curry",
+      "lunch",
+      "dinner",
+      "spicy"
+    ]
+  },
+  {
+    "name": "Paneer Peas Bhurji with Bell Peppers",
+    "cuisine": "indian",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 2,
+    "difficulty": "easy",
+    "instructions": [
+      "Crumble paneer. If using frozen peas, thaw them.",
+      "Heat oil in a non-stick pan. Add cumin seeds and let them splutter. Add chopped onions and sauté until translucent.",
+      "Add ginger-garlic paste and green chilies, cook for 1 minute until fragrant.",
+      "Stir in chopped tomatoes and cook until they soften. Add turmeric powder, red chili powder, coriander powder, and garam masala. Cook for 1-2 minutes.",
+      "Add chopped bell peppers and green peas. Cook for 3-4 minutes until vegetables are slightly tender.",
+      "Add the crumbled paneer to the pan. Mix gently to combine with the masala. Cook for another 3-5 minutes, allowing paneer to absorb flavors.",
+      "Season with salt to taste. Garnish with fresh chopped coriander leaves.",
+      "Serve hot with whole wheat roti or as a protein-rich side dish."
+    ],
+    "ingredients": [
+      {
+        "name": "paneer (Indian cottage cheese)",
+        "category": "protein",
+        "quantity": "250g, crumbled",
+        "optional": false
+      },
+      {
+        "name": "green peas (fresh or frozen)",
+        "category": "vegetable",
+        "quantity": "1/2 cup",
+        "optional": false
+      },
+      {
+        "name": "bell pepper (capsicum)",
+        "category": "vegetable",
+        "quantity": "1/2 medium, chopped",
+        "optional": false
+      },
+      {
+        "name": "onion",
+        "category": "vegetable",
+        "quantity": "1 medium, chopped",
+        "optional": false
+      },
+      {
+        "name": "tomato",
+        "category": "vegetable",
+        "quantity": "1 large, chopped",
+        "optional": false
+      },
+      {
+        "name": "green chilies",
+        "category": "spice",
+        "quantity": "1-2, slit",
+        "optional": false
+      },
+      {
+        "name": "ginger-garlic paste",
+        "category": "condiment",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "cumin seeds",
+        "category": "spice",
+        "quantity": "1/2 tsp",
+        "optional": false
+      },
+      {
+        "name": "turmeric powder",
+        "category": "spice",
+        "quantity": "1/4 tsp",
+        "optional": false
+      },
+      {
+        "name": "red chili powder",
+        "category": "spice",
+        "quantity": "1/2 tsp",
+        "optional": true
+      },
+      {
+        "name": "coriander powder",
+        "category": "spice",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "garam masala",
+        "category": "spice",
+        "quantity": "1/2 tsp",
+        "optional": false
+      },
+      {
+        "name": "salt",
+        "category": "condiment",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "fresh coriander leaves",
+        "category": "herb",
+        "quantity": "2 tbsp, chopped",
+        "optional": false
+      },
+      {
+        "name": "oil (light olive or avocado)",
+        "category": "fat",
+        "quantity": "1 tbsp",
+        "optional": false
+      }
+    ],
+    "macros": {
+      "protein": 26,
+      "carbs": 12,
+      "fats": 28,
+      "calories": 400
+    },
+    "tags": [
+      "high-protein",
+      "vegetarian",
+      "quick",
+      "lunch",
+      "dinner",
+      "low-carb-option"
+    ]
+  },
+  {
+    "name": "Scrambled Eggs with Smoked Salmon & Spinach",
+    "cuisine": "western",
+    "mealTypes": [
+      "breakfast"
+    ],
+    "prepTime": 5,
+    "cookTime": 10,
+    "servings": 1,
+    "difficulty": "easy",
+    "instructions": [
+      "Heat olive oil or butter in a non-stick pan over medium heat.",
+      "Add spinach and sauté until wilted, about 1-2 minutes. Remove from pan and set aside.",
+      "In a bowl, whisk eggs with milk, salt, and pepper until well combined.",
+      "Pour egg mixture into the same pan (add a little more oil if needed). Cook, stirring gently, until eggs are mostly set but still slightly moist.",
+      "Fold in the cooked spinach and smoked salmon pieces. Cook for another minute until heated through.",
+      "Serve immediately, topped with a sprinkle of fresh dill if desired."
+    ],
+    "ingredients": [
+      {
+        "name": "large eggs",
+        "category": "protein",
+        "quantity": "3",
+        "optional": false
+      },
+      {
+        "name": "smoked salmon",
+        "category": "protein",
+        "quantity": "50g",
+        "optional": false
+      },
+      {
+        "name": "fresh spinach",
+        "category": "vegetable",
+        "quantity": "1 cup (packed)",
+        "optional": false
+      },
+      {
+        "name": "milk (any type)",
+        "category": "dairy",
+        "quantity": "1 tbsp",
+        "optional": false
+      },
+      {
+        "name": "olive oil or butter",
+        "category": "fat",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "salt",
+        "category": "spice",
+        "quantity": "pinch",
+        "optional": false
+      },
+      {
+        "name": "black pepper",
+        "category": "spice",
+        "quantity": "pinch",
+        "optional": false
+      },
+      {
+        "name": "fresh dill (chopped)",
+        "category": "herb",
+        "quantity": "1 tsp",
+        "optional": true
+      }
+    ],
+    "macros": {
+      "protein": 31,
+      "carbs": 3,
+      "fats": 21,
+      "calories": 325
+    },
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "breakfast",
+      "quick"
+    ]
+  },
+  {
+    "name": "High-Protein Cottage Cheese Pancakes",
+    "cuisine": "western",
+    "mealTypes": [
+      "breakfast"
+    ],
+    "prepTime": 5,
+    "cookTime": 10,
+    "servings": 1,
+    "difficulty": "easy",
+    "instructions": [
+      "In a blender or food processor, combine cottage cheese, egg, whole wheat flour, protein powder, baking powder, vanilla extract, and sweetener (if using). Blend until smooth.",
+      "Heat a non-stick pan or griddle over medium heat and lightly grease with cooking spray or a tiny bit of oil.",
+      "Pour approximately 1/4 cup of batter per pancake onto the hot surface.",
+      "Cook for 2-3 minutes per side, or until golden brown and cooked through.",
+      "Serve immediately with fresh berries and a drizzle of sugar-free syrup if desired."
+    ],
+    "ingredients": [
+      {
+        "name": "low-fat cottage cheese",
+        "category": "protein",
+        "quantity": "1/2 cup (113g)",
+        "optional": false
+      },
+      {
+        "name": "large egg",
+        "category": "protein",
+        "quantity": "1",
+        "optional": false
+      },
+      {
+        "name": "whole wheat flour",
+        "category": "carb",
+        "quantity": "2 tbsp",
+        "optional": false
+      },
+      {
+        "name": "vanilla protein powder",
+        "category": "protein",
+        "quantity": "1 scoop (approx. 25-30g)",
+        "optional": false
+      },
+      {
+        "name": "baking powder",
+        "category": "baking",
+        "quantity": "1/2 tsp",
+        "optional": false
+      },
+      {
+        "name": "vanilla extract",
+        "category": "flavoring",
+        "quantity": "1/2 tsp",
+        "optional": false
+      },
+      {
+        "name": "sweetener (e.g., stevia, erythritol)",
+        "category": "sweetener",
+        "quantity": "optional, to taste",
+        "optional": true
+      },
+      {
+        "name": "cooking spray or oil",
+        "category": "fat",
+        "quantity": "for greasing",
+        "optional": false
+      },
+      {
+        "name": "fresh berries",
+        "category": "fruit",
+        "quantity": "1/2 cup",
+        "optional": false
+      }
+    ],
+    "macros": {
+      "protein": 40,
+      "carbs": 25,
+      "fats": 7,
+      "calories": 315
+    },
+    "tags": [
+      "high-protein",
+      "vegetarian",
+      "breakfast",
+      "quick"
+    ]
+  },
+  {
+    "name": "Savory Tofu Scramble with Black Beans",
+    "cuisine": "western",
+    "mealTypes": [
+      "breakfast",
+      "lunch"
+    ],
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 1,
+    "difficulty": "easy",
+    "instructions": [
+      "Press extra-firm tofu for at least 15 minutes to remove excess water, then crumble it into a bowl. Season with nutritional yeast, turmeric, garlic powder, onion powder, salt, and pepper.",
+      "Heat olive oil in a non-stick pan over medium heat. Add diced onion and bell pepper, and sauté for 3-4 minutes until softened.",
+      "Add the seasoned tofu to the pan and cook, stirring occasionally, for 5-7 minutes until it starts to brown slightly.",
+      "Stir in the drained and rinsed black beans and continue to cook for another 2-3 minutes until everything is heated through.",
+      "Serve hot, garnished with fresh cilantro and a side of avocado slices."
+    ],
+    "ingredients": [
+      {
+        "name": "extra-firm tofu",
+        "category": "protein",
+        "quantity": "200g",
+        "optional": false
+      },
+      {
+        "name": "canned black beans",
+        "category": "protein",
+        "quantity": "1/2 cup (rinsed & drained)",
+        "optional": false
+      },
+      {
+        "name": "nutritional yeast",
+        "category": "flavoring",
+        "quantity": "2 tbsp",
+        "optional": false
+      },
+      {
+        "name": "turmeric powder",
+        "category": "spice",
+        "quantity": "1/4 tsp",
+        "optional": false
+      },
+      {
+        "name": "garlic powder",
+        "category": "spice",
+        "quantity": "1/2 tsp",
+        "optional": false
+      },
+      {
+        "name": "onion powder",
+        "category": "spice",
+        "quantity": "1/2 tsp",
+        "optional": false
+      },
+      {
+        "name": "salt",
+        "category": "spice",
+        "quantity": "1/4 tsp",
+        "optional": false
+      },
+      {
+        "name": "black pepper",
+        "category": "spice",
+        "quantity": "1/8 tsp",
+        "optional": false
+      },
+      {
+        "name": "olive oil",
+        "category": "fat",
+        "quantity": "1 tbsp",
+        "optional": false
+      },
+      {
+        "name": "red onion (diced)",
+        "category": "vegetable",
+        "quantity": "1/4 cup",
+        "optional": false
+      },
+      {
+        "name": "bell pepper (any color, diced)",
+        "category": "vegetable",
+        "quantity": "1/4 cup",
+        "optional": false
+      },
+      {
+        "name": "fresh cilantro (chopped)",
+        "category": "herb",
+        "quantity": "1 tbsp",
+        "optional": true
+      },
+      {
+        "name": "avocado (sliced)",
+        "category": "fat",
+        "quantity": "1/4 avocado",
+        "optional": true
+      }
+    ],
+    "macros": {
+      "protein": 34,
+      "carbs": 30,
+      "fats": 23,
+      "calories": 445
+    },
+    "tags": [
+      "high-protein",
+      "vegetarian",
+      "vegan-option",
+      "breakfast",
+      "lunch"
+    ]
+  },
+  {
+    "name": "Greek Yogurt Protein Bowl with Berries & Nuts",
+    "cuisine": "western",
+    "mealTypes": [
+      "breakfast",
+      "snack"
+    ],
+    "prepTime": 5,
+    "cookTime": 0,
+    "servings": 1,
+    "difficulty": "easy",
+    "instructions": [
+      "In a bowl, combine Greek yogurt and protein powder. Mix well until smooth and fully combined. If too thick, add a tiny splash of milk or water.",
+      "Top with mixed berries, a sprinkle of chopped almonds, and a drizzle of honey or maple syrup if desired."
+    ],
+    "ingredients": [
+      {
+        "name": "plain non-fat Greek yogurt",
+        "category": "protein",
+        "quantity": "1 cup (227g)",
+        "optional": false
+      },
+      {
+        "name": "vanilla or unflavored protein powder",
+        "category": "protein",
+        "quantity": "1/2 scoop (approx. 12-15g)",
+        "optional": false
+      },
+      {
+        "name": "mixed berries (fresh or frozen)",
+        "category": "fruit",
+        "quantity": "1/2 cup",
+        "optional": false
+      },
+      {
+        "name": "almonds (chopped)",
+        "category": "nut",
+        "quantity": "1 tbsp",
+        "optional": false
+      },
+      {
+        "name": "honey or maple syrup",
+        "category": "sweetener",
+        "quantity": "1 tsp",
+        "optional": true
+      }
+    ],
+    "macros": {
+      "protein": 38,
+      "carbs": 24,
+      "fats": 6,
+      "calories": 300
+    },
+    "tags": [
+      "high-protein",
+      "vegetarian",
+      "quick",
+      "no-cook",
+      "breakfast",
+      "snack"
+    ]
+  },
+  {
+    "name": "Grilled Chicken & Avocado Salad",
+    "cuisine": "western",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "prepTime": 15,
+    "cookTime": 15,
+    "servings": 1,
+    "difficulty": "easy",
+    "instructions": [
+      "Pat chicken breast dry and season with salt, pepper, garlic powder, and paprika.",
+      "Heat olive oil in a grill pan or skillet over medium-high heat. Grill chicken for 6-8 minutes per side, or until cooked through and internal temperature reaches 165°F (74°C). Let it rest for a few minutes, then slice.",
+      "In a large bowl, combine mixed greens, cherry tomatoes, cucumber, red onion, and avocado slices.",
+      "For the dressing, whisk together olive oil, red wine vinegar, Dijon mustard, salt, and pepper.",
+      "Add the sliced grilled chicken to the salad. Drizzle with dressing and toss gently to combine. Serve immediately."
+    ],
+    "ingredients": [
+      {
+        "name": "boneless, skinless chicken breast",
+        "category": "protein",
+        "quantity": "150g",
+        "optional": false
+      },
+      {
+        "name": "mixed greens",
+        "category": "vegetable",
+        "quantity": "3 cups",
+        "optional": false
+      },
+      {
+        "name": "cherry tomatoes (halved)",
+        "category": "vegetable",
+        "quantity": "1/2 cup",
+        "optional": false
+      },
+      {
+        "name": "cucumber (sliced)",
+        "category": "vegetable",
+        "quantity": "1/2 cup",
+        "optional": false
+      },
+      {
+        "name": "red onion (thinly sliced)",
+        "category": "vegetable",
+        "quantity": "1/4 cup",
+        "optional": false
+      },
+      {
+        "name": "avocado (diced)",
+        "category": "fat",
+        "quantity": "1/2",
+        "optional": false
+      },
+      {
+        "name": "olive oil",
+        "category": "fat",
+        "quantity": "1 tbsp (for chicken) + 2 tbsp (for dressing)",
+        "optional": false
+      },
+      {
+        "name": "red wine vinegar",
+        "category": "condiment",
+        "quantity": "1 tbsp",
+        "optional": false
+      },
+      {
+        "name": "Dijon mustard",
+        "category": "condiment",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "garlic powder",
+        "category": "spice",
+        "quantity": "1/2 tsp",
+        "optional": false
+      },
+      {
+        "name": "paprika",
+        "category": "spice",
+        "quantity": "1/2 tsp",
+        "optional": false
+      },
+      {
+        "name": "salt",
+        "category": "spice",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "black pepper",
+        "category": "spice",
+        "quantity": "to taste",
+        "optional": false
+      }
+    ],
+    "macros": {
+      "protein": 48,
+      "carbs": 18,
+      "fats": 34,
+      "calories": 570
+    },
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "lunch",
+      "dinner",
+      "quick"
+    ]
+  },
+  {
+    "name": "Quick Tuna Melt on Whole Wheat",
+    "cuisine": "western",
+    "mealTypes": [
+      "lunch"
+    ],
+    "prepTime": 5,
+    "cookTime": 10,
+    "servings": 1,
+    "difficulty": "easy",
+    "instructions": [
+      "Drain tuna well and flake into a bowl. Mix with light mayonnaise, finely diced celery, red onion, salt, and pepper.",
+      "Toast one slice of whole wheat bread until lightly golden. Spread the tuna mixture evenly over the toast.",
+      "Top with cheddar cheese slice. You can either place it under a broiler for 2-3 minutes until cheese is melted and bubbly, or microwave for 30-60 seconds until cheese is melted.",
+      "Serve hot, optionally garnished with a sprinkle of fresh parsley."
+    ],
+    "ingredients": [
+      {
+        "name": "canned tuna in water (drained)",
+        "category": "protein",
+        "quantity": "1 can (140g drained)",
+        "optional": false
+      },
+      {
+        "name": "whole wheat bread",
+        "category": "carb",
+        "quantity": "1 slice",
+        "optional": false
+      },
+      {
+        "name": "cheddar cheese (slice)",
+        "category": "dairy",
+        "quantity": "1 (28g)",
+        "optional": false
+      },
+      {
+        "name": "light mayonnaise",
+        "category": "condiment",
+        "quantity": "1 tbsp",
+        "optional": false
+      },
+      {
+        "name": "celery (finely diced)",
+        "category": "vegetable",
+        "quantity": "1 tbsp",
+        "optional": false
+      },
+      {
+        "name": "red onion (finely diced)",
+        "category": "vegetable",
+        "quantity": "1 tbsp",
+        "optional": false
+      },
+      {
+        "name": "salt",
+        "category": "spice",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "black pepper",
+        "category": "spice",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "fresh parsley (chopped)",
+        "category": "herb",
+        "quantity": "for garnish",
+        "optional": true
+      }
+    ],
+    "macros": {
+      "protein": 37,
+      "carbs": 24,
+      "fats": 14,
+      "calories": 365
+    },
+    "tags": [
+      "high-protein",
+      "lunch",
+      "quick",
+      "easy"
+    ]
+  },
+  {
+    "name": "Chickpea Salad Protein Wrap",
+    "cuisine": "western",
+    "mealTypes": [
+      "lunch"
+    ],
+    "prepTime": 10,
+    "cookTime": 0,
+    "servings": 1,
+    "difficulty": "easy",
+    "instructions": [
+      "In a bowl, mash chickpeas with a fork until mostly smooth but still a bit chunky.",
+      "Stir in Greek yogurt, Dijon mustard, finely diced celery, red onion, and fresh dill. Season with salt and pepper.",
+      "Lay out a high-protein tortilla or large lettuce leaves. Spread the chickpea salad evenly down the center.",
+      "Add mixed greens and any other desired veggies like shredded carrots or bell pepper strips.",
+      "Roll up tightly and serve immediately."
+    ],
+    "ingredients": [
+      {
+        "name": "canned chickpeas (rinsed & drained)",
+        "category": "protein",
+        "quantity": "1 cup (160g cooked weight)",
+        "optional": false
+      },
+      {
+        "name": "plain non-fat Greek yogurt",
+        "category": "protein",
+        "quantity": "2 tbsp",
+        "optional": false
+      },
+      {
+        "name": "Dijon mustard",
+        "category": "condiment",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "celery (finely diced)",
+        "category": "vegetable",
+        "quantity": "1/4 cup",
+        "optional": false
+      },
+      {
+        "name": "red onion (finely diced)",
+        "category": "vegetable",
+        "quantity": "2 tbsp",
+        "optional": false
+      },
+      {
+        "name": "fresh dill (chopped)",
+        "category": "herb",
+        "quantity": "1 tbsp",
+        "optional": true
+      },
+      {
+        "name": "salt",
+        "category": "spice",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "black pepper",
+        "category": "spice",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "high-protein tortilla or large lettuce leaves",
+        "category": "carb",
+        "quantity": "1",
+        "optional": false
+      },
+      {
+        "name": "mixed greens",
+        "category": "vegetable",
+        "quantity": "1/2 cup",
+        "optional": true
+      }
+    ],
+    "macros": {
+      "protein": 28,
+      "carbs": 40,
+      "fats": 7,
+      "calories": 325
+    },
+    "tags": [
+      "high-protein",
+      "vegetarian",
+      "lunch",
+      "quick",
+      "no-cook"
+    ]
+  },
+  {
+    "name": "Turkey & Hummus Protein Box",
+    "cuisine": "western",
+    "mealTypes": [
+      "lunch",
+      "snack"
+    ],
+    "prepTime": 10,
+    "cookTime": 0,
+    "servings": 1,
+    "difficulty": "easy",
+    "instructions": [
+      "Arrange the sliced turkey breast, hummus, cucumber slices, bell pepper strips, and whole wheat pita bread (or crackers) neatly in a meal prep container or on a plate.",
+      "Serve with a sprinkle of paprika on the hummus if desired."
+    ],
+    "ingredients": [
+      {
+        "name": "sliced turkey breast (deli meat)",
+        "category": "protein",
+        "quantity": "100g",
+        "optional": false
+      },
+      {
+        "name": "hummus",
+        "category": "protein",
+        "quantity": "1/4 cup (60g)",
+        "optional": false
+      },
+      {
+        "name": "cucumber (sliced)",
+        "category": "vegetable",
+        "quantity": "1/2 cup",
+        "optional": false
+      },
+      {
+        "name": "bell pepper (any color, sliced)",
+        "category": "vegetable",
+        "quantity": "1/2 cup",
+        "optional": false
+      },
+      {
+        "name": "whole wheat pita bread",
+        "category": "carb",
+        "quantity": "1/2 pita",
+        "optional": false
+      },
+      {
+        "name": "paprika",
+        "category": "spice",
+        "quantity": "pinch",
+        "optional": true
+      }
+    ],
+    "macros": {
+      "protein": 34,
+      "carbs": 30,
+      "fats": 9,
+      "calories": 340
+    },
+    "tags": [
+      "high-protein",
+      "lunch",
+      "snack",
+      "quick",
+      "no-cook"
+    ]
+  },
+  {
+    "name": "Baked Salmon with Roasted Broccoli & Quinoa",
+    "cuisine": "western",
+    "mealTypes": [
+      "dinner"
+    ],
+    "prepTime": 10,
+    "cookTime": 25,
+    "servings": 1,
+    "difficulty": "easy",
+    "instructions": [
+      "Preheat oven to 400°F (200°C).",
+      "Cook quinoa according to package directions. Typically, combine 1/2 cup quinoa with 1 cup water, bring to boil, then simmer covered for 15 minutes until water is absorbed.",
+      "Toss broccoli florets with 1 tbsp olive oil, salt, and pepper on a baking sheet.",
+      "Place salmon fillet on the same baking sheet. Drizzle with 1/2 tbsp olive oil, lemon juice, and season with garlic powder, salt, and pepper.",
+      "Roast for 15-20 minutes, or until salmon is cooked through and flakes easily, and broccoli is tender-crisp.",
+      "Serve the baked salmon and roasted broccoli alongside the cooked quinoa."
+    ],
+    "ingredients": [
+      {
+        "name": "salmon fillet",
+        "category": "protein",
+        "quantity": "150g",
+        "optional": false
+      },
+      {
+        "name": "broccoli florets",
+        "category": "vegetable",
+        "quantity": "2 cups",
+        "optional": false
+      },
+      {
+        "name": "uncooked quinoa",
+        "category": "carb",
+        "quantity": "1/2 cup (approx. 150g cooked)",
+        "optional": false
+      },
+      {
+        "name": "olive oil",
+        "category": "fat",
+        "quantity": "1.5 tbsp",
+        "optional": false
+      },
+      {
+        "name": "lemon juice",
+        "category": "flavoring",
+        "quantity": "1 tbsp",
+        "optional": false
+      },
+      {
+        "name": "garlic powder",
+        "category": "spice",
+        "quantity": "1/2 tsp",
+        "optional": false
+      },
+      {
+        "name": "salt",
+        "category": "spice",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "black pepper",
+        "category": "spice",
+        "quantity": "to taste",
+        "optional": false
+      }
+    ],
+    "macros": {
+      "protein": 45,
+      "carbs": 50,
+      "fats": 25,
+      "calories": 610
+    },
+    "tags": [
+      "high-protein",
+      "dinner",
+      "healthy",
+      "oven-baked"
+    ]
+  },
+  {
+    "name": "Lean Ground Beef and Veggie Skillet",
+    "cuisine": "western",
+    "mealTypes": [
+      "dinner"
+    ],
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 1,
+    "difficulty": "easy",
+    "instructions": [
+      "Heat olive oil in a large skillet or non-stick pan over medium-high heat.",
+      "Add lean ground beef and cook, breaking it apart with a spoon, until browned. Drain any excess fat.",
+      "Stir in diced onion and garlic, and cook for 2-3 minutes until fragrant.",
+      "Add diced zucchini, bell pepper, and tomato paste. Season with Italian seasoning, salt, and pepper. Cook for 5-7 minutes until vegetables are tender-crisp.",
+      "Stir in beef broth and let it simmer for a few minutes until slightly reduced.",
+      "Serve hot, garnished with fresh parsley."
+    ],
+    "ingredients": [
+      {
+        "name": "extra lean ground beef (90% lean or higher)",
+        "category": "protein",
+        "quantity": "150g",
+        "optional": false
+      },
+      {
+        "name": "olive oil",
+        "category": "fat",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "yellow onion (diced)",
+        "category": "vegetable",
+        "quantity": "1/4 cup",
+        "optional": false
+      },
+      {
+        "name": "garlic (minced)",
+        "category": "vegetable",
+        "quantity": "1 clove",
+        "optional": false
+      },
+      {
+        "name": "zucchini (diced)",
+        "category": "vegetable",
+        "quantity": "1/2 cup",
+        "optional": false
+      },
+      {
+        "name": "bell pepper (any color, diced)",
+        "category": "vegetable",
+        "quantity": "1/2 cup",
+        "optional": false
+      },
+      {
+        "name": "tomato paste",
+        "category": "vegetable",
+        "quantity": "1 tbsp",
+        "optional": false
+      },
+      {
+        "name": "beef broth (low sodium)",
+        "category": "liquid",
+        "quantity": "1/4 cup",
+        "optional": false
+      },
+      {
+        "name": "Italian seasoning",
+        "category": "spice",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "salt",
+        "category": "spice",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "black pepper",
+        "category": "spice",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "fresh parsley (chopped)",
+        "category": "herb",
+        "quantity": "1 tbsp",
+        "optional": true
+      }
+    ],
+    "macros": {
+      "protein": 37,
+      "carbs": 12,
+      "fats": 20,
+      "calories": 380
+    },
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "dinner",
+      "quick",
+      "one-pan"
+    ]
+  },
+  {
+    "name": "Chicken Breast with Roasted Sweet Potato & Green Beans",
+    "cuisine": "western",
+    "mealTypes": [
+      "dinner"
+    ],
+    "prepTime": 10,
+    "cookTime": 30,
+    "servings": 1,
+    "difficulty": "easy",
+    "instructions": [
+      "Preheat oven to 400°F (200°C).",
+      "Toss diced sweet potato with 1 tbsp olive oil, salt, pepper, and paprika on a baking sheet. Roast for 15 minutes.",
+      "While sweet potato roasts, pat chicken breast dry. Season with garlic powder, onion powder, salt, and pepper.",
+      "After 15 minutes, add green beans (tossed with 1/2 tbsp olive oil, salt, and pepper) and the seasoned chicken breast to the baking sheet. You can place the chicken directly on the sheet or on a small piece of parchment paper next to the veggies.",
+      "Continue roasting for another 15-20 minutes, or until chicken is cooked through (internal temperature 165°F/74°C) and vegetables are tender."
+    ],
+    "ingredients": [
+      {
+        "name": "boneless, skinless chicken breast",
+        "category": "protein",
+        "quantity": "150g",
+        "optional": false
+      },
+      {
+        "name": "sweet potato (medium, diced)",
+        "category": "carb",
+        "quantity": "1 cup",
+        "optional": false
+      },
+      {
+        "name": "fresh green beans",
+        "category": "vegetable",
+        "quantity": "1 cup",
+        "optional": false
+      },
+      {
+        "name": "olive oil",
+        "category": "fat",
+        "quantity": "1.5 tbsp",
+        "optional": false
+      },
+      {
+        "name": "garlic powder",
+        "category": "spice",
+        "quantity": "1/2 tsp",
+        "optional": false
+      },
+      {
+        "name": "onion powder",
+        "category": "spice",
+        "quantity": "1/2 tsp",
+        "optional": false
+      },
+      {
+        "name": "paprika",
+        "category": "spice",
+        "quantity": "1/2 tsp",
+        "optional": false
+      },
+      {
+        "name": "salt",
+        "category": "spice",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "black pepper",
+        "category": "spice",
+        "quantity": "to taste",
+        "optional": false
+      }
+    ],
+    "macros": {
+      "protein": 47,
+      "carbs": 35,
+      "fats": 16,
+      "calories": 480
+    },
+    "tags": [
+      "high-protein",
+      "dinner",
+      "one-pan",
+      "healthy"
+    ]
+  },
+  {
+    "name": "Hearty Lentil & Vegetable Stew",
+    "cuisine": "western",
+    "mealTypes": [
+      "dinner"
+    ],
+    "prepTime": 15,
+    "cookTime": 40,
+    "servings": 1,
+    "difficulty": "medium",
+    "instructions": [
+      "Rinse lentils thoroughly. Heat olive oil in a large pot or Dutch oven over medium heat.",
+      "Add diced onion, carrots, and celery. Sauté for 5-7 minutes until softened.",
+      "Stir in minced garlic, tomato paste, and Italian seasoning. Cook for 1 minute until fragrant.",
+      "Add rinsed lentils, diced tomatoes, vegetable broth, and bay leaf. Bring to a boil, then reduce heat, cover, and simmer for 25-30 minutes, or until lentils are tender.",
+      "Remove bay leaf. Stir in fresh spinach and cook until wilted, about 2 minutes.",
+      "Season with salt and pepper to taste. Serve hot, optionally topped with a dollop of Greek yogurt or a sprinkle of fresh parsley."
+    ],
+    "ingredients": [
+      {
+        "name": "brown or green lentils (dry)",
+        "category": "protein",
+        "quantity": "3/4 cup (approx. 1.5 cups cooked)",
+        "optional": false
+      },
+      {
+        "name": "olive oil",
+        "category": "fat",
+        "quantity": "1 tbsp",
+        "optional": false
+      },
+      {
+        "name": "yellow onion (diced)",
+        "category": "vegetable",
+        "quantity": "1/2 cup",
+        "optional": false
+      },
+      {
+        "name": "carrots (diced)",
+        "category": "vegetable",
+        "quantity": "1/2 cup",
+        "optional": false
+      },
+      {
+        "name": "celery (diced)",
+        "category": "vegetable",
+        "quantity": "1/2 cup",
+        "optional": false
+      },
+      {
+        "name": "garlic (minced)",
+        "category": "vegetable",
+        "quantity": "2 cloves",
+        "optional": false
+      },
+      {
+        "name": "tomato paste",
+        "category": "vegetable",
+        "quantity": "1 tbsp",
+        "optional": false
+      },
+      {
+        "name": "canned diced tomatoes (undrained)",
+        "category": "vegetable",
+        "quantity": "1 cup",
+        "optional": false
+      },
+      {
+        "name": "vegetable broth",
+        "category": "liquid",
+        "quantity": "3 cups",
+        "optional": false
+      },
+      {
+        "name": "bay leaf",
+        "category": "spice",
+        "quantity": "1",
+        "optional": false
+      },
+      {
+        "name": "fresh spinach",
+        "category": "vegetable",
+        "quantity": "2 cups (packed)",
+        "optional": false
+      },
+      {
+        "name": "Italian seasoning",
+        "category": "spice",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "salt",
+        "category": "spice",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "black pepper",
+        "category": "spice",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "plain Greek yogurt",
+        "category": "dairy",
+        "quantity": "1 tbsp",
+        "optional": true
+      },
+      {
+        "name": "fresh parsley (chopped)",
+        "category": "herb",
+        "quantity": "1 tbsp",
+        "optional": true
+      }
+    ],
+    "macros": {
+      "protein": 31,
+      "carbs": 70,
+      "fats": 9,
+      "calories": 440
+    },
+    "tags": [
+      "high-protein",
+      "vegetarian",
+      "vegan-option",
+      "dinner",
+      "comfort-food"
+    ]
+  },
+  {
+    "name": "Halloumi & Veggie Skewers with Quinoa",
+    "cuisine": "western",
+    "mealTypes": [
+      "dinner"
+    ],
+    "prepTime": 15,
+    "cookTime": 15,
+    "servings": 1,
+    "difficulty": "medium",
+    "instructions": [
+      "If using wooden skewers, soak them in water for at least 30 minutes.",
+      "Cook quinoa according to package directions. (1/2 cup quinoa with 1 cup water, simmer for 15 mins).",
+      "Cut halloumi into 1-inch cubes. Cut bell peppers and zucchini into similar-sized pieces.",
+      "In a bowl, toss halloumi and vegetables with olive oil, lemon juice, dried oregano, salt, and pepper.",
+      "Thread the halloumi and vegetables alternately onto the skewers.",
+      "Heat a grill pan or outdoor grill to medium-high heat. Grill skewers for 3-4 minutes per side, turning until halloumi is golden brown and vegetables are tender-crisp.",
+      "Serve the grilled skewers immediately alongside the cooked quinoa."
+    ],
+    "ingredients": [
+      {
+        "name": "halloumi cheese",
+        "category": "protein",
+        "quantity": "150g",
+        "optional": false
+      },
+      {
+        "name": "bell peppers (various colors, cut into 1-inch pieces)",
+        "category": "vegetable",
+        "quantity": "1 cup",
+        "optional": false
+      },
+      {
+        "name": "zucchini (cut into 1-inch pieces)",
+        "category": "vegetable",
+        "quantity": "1/2 cup",
+        "optional": false
+      },
+      {
+        "name": "red onion (cut into 1-inch pieces)",
+        "category": "vegetable",
+        "quantity": "1/4 cup",
+        "optional": true
+      },
+      {
+        "name": "uncooked quinoa",
+        "category": "carb",
+        "quantity": "1/2 cup (approx. 150g cooked)",
+        "optional": false
+      },
+      {
+        "name": "olive oil",
+        "category": "fat",
+        "quantity": "1 tbsp",
+        "optional": false
+      },
+      {
+        "name": "lemon juice",
+        "category": "flavoring",
+        "quantity": "1 tbsp",
+        "optional": false
+      },
+      {
+        "name": "dried oregano",
+        "category": "spice",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "salt",
+        "category": "spice",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "black pepper",
+        "category": "spice",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "wooden or metal skewers",
+        "category": "equipment",
+        "quantity": "2-3",
+        "optional": false
+      }
+    ],
+    "macros": {
+      "protein": 37,
+      "carbs": 40,
+      "fats": 35,
+      "calories": 620
+    },
+    "tags": [
+      "high-protein",
+      "vegetarian",
+      "dinner",
+      "grill",
+      "healthy"
+    ]
+  },
+  {
+    "name": "High-Protein Chicken & Black Bean Burrito Bowl",
+    "cuisine": "western",
+    "mealTypes": [
+      "lunch",
+      "dinner"
+    ],
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 1,
+    "difficulty": "easy",
+    "instructions": [
+      "Cook brown rice according to package directions. (1/2 cup dry with 1 cup water, simmer 20-25 mins).",
+      "Season chicken breast with chili powder, cumin, salt, and pepper. Heat 1 tsp olive oil in a skillet over medium-high heat. Cook chicken for 6-8 minutes per side until cooked through. Let rest, then dice or shred.",
+      "In the same skillet, add drained and rinsed black beans, corn, and a splash of water or chicken broth. Heat through, stirring in a squeeze of lime juice.",
+      "Assemble the bowl: place cooked brown rice at the bottom. Top with diced chicken, black bean and corn mixture, avocado slices, and a dollop of Greek yogurt or sour cream.",
+      "Garnish with fresh cilantro."
+    ],
+    "ingredients": [
+      {
+        "name": "boneless, skinless chicken breast",
+        "category": "protein",
+        "quantity": "120g",
+        "optional": false
+      },
+      {
+        "name": "uncooked brown rice",
+        "category": "carb",
+        "quantity": "1/2 cup (approx. 150g cooked)",
+        "optional": false
+      },
+      {
+        "name": "canned black beans (rinsed & drained)",
+        "category": "protein",
+        "quantity": "1/2 cup",
+        "optional": false
+      },
+      {
+        "name": "frozen corn",
+        "category": "vegetable",
+        "quantity": "1/4 cup",
+        "optional": false
+      },
+      {
+        "name": "avocado (sliced)",
+        "category": "fat",
+        "quantity": "1/4",
+        "optional": false
+      },
+      {
+        "name": "plain Greek yogurt or light sour cream",
+        "category": "dairy",
+        "quantity": "2 tbsp",
+        "optional": false
+      },
+      {
+        "name": "olive oil",
+        "category": "fat",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "chili powder",
+        "category": "spice",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "cumin",
+        "category": "spice",
+        "quantity": "1/2 tsp",
+        "optional": false
+      },
+      {
+        "name": "lime juice",
+        "category": "flavoring",
+        "quantity": "1 tbsp",
+        "optional": false
+      },
+      {
+        "name": "salt",
+        "category": "spice",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "black pepper",
+        "category": "spice",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "fresh cilantro (chopped)",
+        "category": "herb",
+        "quantity": "for garnish",
+        "optional": true
+      }
+    ],
+    "macros": {
+      "protein": 40,
+      "carbs": 60,
+      "fats": 15,
+      "calories": 545
+    },
+    "tags": [
+      "high-protein",
+      "dinner",
+      "lunch",
+      "bowl",
+      "mexican-inspired"
+    ]
+  },
+  {
+    "name": "Tofu & Peanut Stir-fry with Brown Rice",
+    "cuisine": "western",
+    "mealTypes": [
+      "dinner"
+    ],
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 1,
+    "difficulty": "medium",
+    "instructions": [
+      "Press firm tofu for at least 15 minutes, then cut into 1-inch cubes. Toss with 1 tsp cornstarch, salt, and pepper.",
+      "Cook brown rice according to package directions. (1/2 cup dry with 1 cup water, simmer 20-25 mins).",
+      "Prepare stir-fry sauce: Whisk together soy sauce, rice vinegar, maple syrup, sesame oil, ginger, and garlic in a small bowl.",
+      "Heat 1 tbsp olive oil in a large skillet or wok over medium-high heat. Add tofu cubes and cook until golden brown and crispy on all sides, about 8-10 minutes. Remove tofu and set aside.",
+      "Add remaining 1 tsp olive oil to the pan (if needed). Add broccoli florets and bell pepper strips. Stir-fry for 3-5 minutes until tender-crisp.",
+      "Return tofu to the pan. Pour in the stir-fry sauce and cook, stirring, until the sauce thickens and coats the tofu and vegetables, about 2-3 minutes.",
+      "Stir in chopped peanuts. Serve hot over cooked brown rice, garnished with green onions."
+    ],
+    "ingredients": [
+      {
+        "name": "firm tofu",
+        "category": "protein",
+        "quantity": "200g",
+        "optional": false
+      },
+      {
+        "name": "uncooked brown rice",
+        "category": "carb",
+        "quantity": "1/2 cup (approx. 150g cooked)",
+        "optional": false
+      },
+      {
+        "name": "broccoli florets",
+        "category": "vegetable",
+        "quantity": "1 cup",
+        "optional": false
+      },
+      {
+        "name": "bell pepper (any color, sliced)",
+        "category": "vegetable",
+        "quantity": "1/2 cup",
+        "optional": false
+      },
+      {
+        "name": "peanuts (chopped)",
+        "category": "nut",
+        "quantity": "2 tbsp",
+        "optional": false
+      },
+      {
+        "name": "olive oil",
+        "category": "fat",
+        "quantity": "2 tsp",
+        "optional": false
+      },
+      {
+        "name": "cornstarch",
+        "category": "thickener",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "low-sodium soy sauce",
+        "category": "condiment",
+        "quantity": "2 tbsp",
+        "optional": false
+      },
+      {
+        "name": "rice vinegar",
+        "category": "condiment",
+        "quantity": "1 tbsp",
+        "optional": false
+      },
+      {
+        "name": "maple syrup or honey",
+        "category": "sweetener",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "sesame oil",
+        "category": "fat",
+        "quantity": "1/2 tsp",
+        "optional": false
+      },
+      {
+        "name": "fresh ginger (grated)",
+        "category": "spice",
+        "quantity": "1/2 tsp",
+        "optional": false
+      },
+      {
+        "name": "garlic (minced)",
+        "category": "vegetable",
+        "quantity": "1 clove",
+        "optional": false
+      },
+      {
+        "name": "salt",
+        "category": "spice",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "black pepper",
+        "category": "spice",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "green onions (sliced)",
+        "category": "herb",
+        "quantity": "1 tbsp",
+        "optional": true
+      }
+    ],
+    "macros": {
+      "protein": 32,
+      "carbs": 70,
+      "fats": 25,
+      "calories": 610
+    },
+    "tags": [
+      "high-protein",
+      "vegetarian",
+      "dinner",
+      "stir-fry"
+    ]
+  },
+  {
+    "name": "Sheet Pan Italian Sausage & Peppers",
+    "cuisine": "western",
+    "mealTypes": [
+      "dinner"
+    ],
+    "prepTime": 10,
+    "cookTime": 30,
+    "servings": 2,
+    "difficulty": "easy",
+    "instructions": [
+      "Preheat oven to 400°F (200°C).",
+      "In a large bowl, toss sliced bell peppers and onion with olive oil, Italian seasoning, garlic powder, salt, and pepper.",
+      "Add Italian sausage links to the bowl and toss to coat with the seasonings.",
+      "Spread the sausages and vegetables in a single layer on a large baking sheet.",
+      "Roast for 25-30 minutes, flipping halfway through, until sausages are cooked through (internal temperature 160°F/71°C for pork, 165°F/74°C for chicken/turkey) and vegetables are tender with slightly browned edges.",
+      "Serve hot, optionally with a sprinkle of fresh parsley."
+    ],
+    "ingredients": [
+      {
+        "name": "lean Italian sausage links (pork, chicken, or turkey)",
+        "category": "protein",
+        "quantity": "2 (approx. 200g total)",
+        "optional": false
+      },
+      {
+        "name": "bell peppers (various colors, sliced)",
+        "category": "vegetable",
+        "quantity": "2 large",
+        "optional": false
+      },
+      {
+        "name": "red onion (sliced)",
+        "category": "vegetable",
+        "quantity": "1 medium",
+        "optional": false
+      },
+      {
+        "name": "olive oil",
+        "category": "fat",
+        "quantity": "1 tbsp",
+        "optional": false
+      },
+      {
+        "name": "Italian seasoning",
+        "category": "spice",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "garlic powder",
+        "category": "spice",
+        "quantity": "1/2 tsp",
+        "optional": false
+      },
+      {
+        "name": "salt",
+        "category": "spice",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "black pepper",
+        "category": "spice",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "fresh parsley (chopped)",
+        "category": "herb",
+        "quantity": "for garnish",
+        "optional": true
+      }
+    ],
+    "macros": {
+      "protein": 30,
+      "carbs": 18,
+      "fats": 20,
+      "calories": 380
+    },
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "dinner",
+      "one-pan",
+      "quick"
+    ]
+  },
+  {
+    "name": "Creamy Tuna Pasta with Peas",
+    "cuisine": "western",
+    "mealTypes": [
+      "dinner"
+    ],
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 2,
+    "difficulty": "easy",
+    "instructions": [
+      "Cook protein pasta according to package directions until al dente. Reserve 1/2 cup of pasta water before draining.",
+      "While pasta cooks, drain tuna well. In a large bowl, flake tuna and mix with Greek yogurt, lemon juice, dried dill (or fresh if available), salt, and pepper.",
+      "Add the cooked and drained pasta to the tuna mixture. Add frozen peas and toss to combine.",
+      "If the mixture is too thick, add a little of the reserved pasta water until it reaches desired creaminess.",
+      "Serve warm, garnished with extra fresh dill or grated Parmesan cheese if desired."
+    ],
+    "ingredients": [
+      {
+        "name": "high-protein pasta (e.g., lentil, chickpea, or protein-enriched)",
+        "category": "carb",
+        "quantity": "4 oz (approx. 112g dry)",
+        "optional": false
+      },
+      {
+        "name": "canned tuna in water (drained)",
+        "category": "protein",
+        "quantity": "2 cans (approx. 280g drained)",
+        "optional": false
+      },
+      {
+        "name": "plain non-fat Greek yogurt",
+        "category": "dairy",
+        "quantity": "1/2 cup (113g)",
+        "optional": false
+      },
+      {
+        "name": "frozen peas",
+        "category": "vegetable",
+        "quantity": "1 cup",
+        "optional": false
+      },
+      {
+        "name": "lemon juice",
+        "category": "flavoring",
+        "quantity": "1 tbsp",
+        "optional": false
+      },
+      {
+        "name": "dried dill",
+        "category": "herb",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "salt",
+        "category": "spice",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "black pepper",
+        "category": "spice",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "Parmesan cheese (grated)",
+        "category": "dairy",
+        "quantity": "for garnish",
+        "optional": true
+      }
+    ],
+    "macros": {
+      "protein": 45,
+      "carbs": 40,
+      "fats": 7,
+      "calories": 400
+    },
+    "tags": [
+      "high-protein",
+      "dinner",
+      "quick",
+      "easy",
+      "comfort-food"
+    ]
+  },
+  {
+    "name": "Baked Cod with Roasted Root Vegetables",
+    "cuisine": "western",
+    "mealTypes": [
+      "dinner"
+    ],
+    "prepTime": 15,
+    "cookTime": 30,
+    "servings": 2,
+    "difficulty": "easy",
+    "instructions": [
+      "Preheat oven to 400°F (200°C).",
+      "In a large bowl, toss chopped carrots, parsnips, and red onion with 1.5 tbsp olive oil, dried thyme, salt, and pepper. Spread them in a single layer on a baking sheet.",
+      "Roast for 15 minutes.",
+      "While vegetables roast, pat cod fillets dry. Drizzle with 1 tbsp olive oil and lemon juice. Season with garlic powder, salt, and pepper.",
+      "After 15 minutes, push vegetables to one side of the baking sheet and place cod fillets on the other side.",
+      "Return to oven and roast for another 12-15 minutes, or until cod is opaque and flakes easily and vegetables are tender and slightly caramelized.",
+      "Serve immediately, optionally garnished with fresh parsley."
+    ],
+    "ingredients": [
+      {
+        "name": "cod fillets",
+        "category": "protein",
+        "quantity": "300g (2 fillets)",
+        "optional": false
+      },
+      {
+        "name": "carrots (chopped)",
+        "category": "vegetable",
+        "quantity": "1 cup",
+        "optional": false
+      },
+      {
+        "name": "parsnips (chopped)",
+        "category": "vegetable",
+        "quantity": "1 cup",
+        "optional": false
+      },
+      {
+        "name": "red onion (chopped)",
+        "category": "vegetable",
+        "quantity": "1/2 cup",
+        "optional": false
+      },
+      {
+        "name": "olive oil",
+        "category": "fat",
+        "quantity": "2.5 tbsp",
+        "optional": false
+      },
+      {
+        "name": "lemon juice",
+        "category": "flavoring",
+        "quantity": "1 tbsp",
+        "optional": false
+      },
+      {
+        "name": "dried thyme",
+        "category": "spice",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "garlic powder",
+        "category": "spice",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "salt",
+        "category": "spice",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "black pepper",
+        "category": "spice",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "fresh parsley (chopped)",
+        "category": "herb",
+        "quantity": "for garnish",
+        "optional": true
+      }
+    ],
+    "macros": {
+      "protein": 35,
+      "carbs": 25,
+      "fats": 20,
+      "calories": 420
+    },
+    "tags": [
+      "high-protein",
+      "dinner",
+      "one-pan",
+      "healthy",
+      "fish"
+    ]
+  },
+  {
+    "name": "Spicy Peanut Butter Chicken",
+    "cuisine": "western",
+    "mealTypes": [
+      "dinner"
+    ],
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 2,
+    "difficulty": "medium",
+    "instructions": [
+      "Cut chicken breasts into 1-inch pieces. Season with salt and pepper.",
+      "Prepare sauce: In a bowl, whisk together peanut butter, soy sauce, lime juice, honey, sriracha, grated ginger, and minced garlic. Add a tablespoon or two of water to thin if needed.",
+      "Heat olive oil in a large skillet or wok over medium-high heat. Add chicken pieces and cook until browned on all sides and cooked through, about 5-7 minutes. Remove chicken from the pan and set aside.",
+      "Add bell pepper strips to the pan and stir-fry for 3-4 minutes until tender-crisp.",
+      "Return chicken to the pan. Pour the peanut sauce over the chicken and bell peppers. Stir well to coat everything, and cook for 2-3 minutes until the sauce thickens slightly.",
+      "Serve hot over brown rice or with a side of steamed vegetables, garnished with chopped peanuts and green onions."
+    ],
+    "ingredients": [
+      {
+        "name": "boneless, skinless chicken breasts",
+        "category": "protein",
+        "quantity": "300g (2 breasts)",
+        "optional": false
+      },
+      {
+        "name": "bell pepper (any color, sliced)",
+        "category": "vegetable",
+        "quantity": "1 large",
+        "optional": false
+      },
+      {
+        "name": "creamy peanut butter (natural, unsweetened)",
+        "category": "protein",
+        "quantity": "1/4 cup",
+        "optional": false
+      },
+      {
+        "name": "low-sodium soy sauce",
+        "category": "condiment",
+        "quantity": "2 tbsp",
+        "optional": false
+      },
+      {
+        "name": "lime juice",
+        "category": "flavoring",
+        "quantity": "1 tbsp",
+        "optional": false
+      },
+      {
+        "name": "honey or maple syrup",
+        "category": "sweetener",
+        "quantity": "1 tbsp",
+        "optional": false
+      },
+      {
+        "name": "sriracha (or other hot sauce)",
+        "category": "condiment",
+        "quantity": "1-2 tsp (to taste)",
+        "optional": false
+      },
+      {
+        "name": "fresh ginger (grated)",
+        "category": "spice",
+        "quantity": "1 tsp",
+        "optional": false
+      },
+      {
+        "name": "garlic (minced)",
+        "category": "vegetable",
+        "quantity": "2 cloves",
+        "optional": false
+      },
+      {
+        "name": "olive oil",
+        "category": "fat",
+        "quantity": "1 tbsp",
+        "optional": false
+      },
+      {
+        "name": "salt",
+        "category": "spice",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "black pepper",
+        "category": "spice",
+        "quantity": "to taste",
+        "optional": false
+      },
+      {
+        "name": "chopped peanuts",
+        "category": "nut",
+        "quantity": "1 tbsp",
+        "optional": true
+      },
+      {
+        "name": "green onions (sliced)",
+        "category": "herb",
+        "quantity": "1 tbsp",
+        "optional": true
+      }
+    ],
+    "macros": {
+      "protein": 40,
+      "carbs": 18,
+      "fats": 25,
+      "calories": 460
+    },
+    "tags": [
+      "high-protein",
+      "dinner",
+      "quick",
+      "spicy"
+    ]
+  }
+]
